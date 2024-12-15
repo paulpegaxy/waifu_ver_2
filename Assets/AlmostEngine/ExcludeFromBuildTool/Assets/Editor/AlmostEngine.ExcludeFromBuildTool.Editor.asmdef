@@ -1,0 +1,11 @@
+{
+    "name": "AlmostEngine.ExcludeFromBuildTool.Editor",
+    "references": [
+        "AlmostEngine",
+        "AlmostEngine.Shared"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

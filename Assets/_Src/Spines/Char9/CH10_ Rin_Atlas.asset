@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: CH10_ Rin_Atlas
+  m_EditorClassIdentifier: 
+  textureLoadingMode: 0
+  onDemandTextureLoader: {fileID: 0}
+  atlasFile: {fileID: 4900000, guid: 064c411dc6062034ea87cca95eec14eb, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 3629c6facd13ed545855f579768cf184, type: 2}
+  - {fileID: 2100000, guid: b2b0e2115f65c38468f79a17183d6627, type: 2}
+  - {fileID: 2100000, guid: 459e496adaf4cbb45aadd90299ccd425, type: 2}
+  - {fileID: 2100000, guid: 8e67d484e570f264183d64680d81fea9, type: 2}
+  - {fileID: 2100000, guid: dfce583079676214d890c067dc9b38d3, type: 2}

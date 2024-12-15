@@ -1,0 +1,187 @@
+[
+  {
+    "Category": "Main",
+    "Steps": [
+      {
+        "State": "MainLeaderboard",
+        "Alignment": "TopCenter2",
+        "TextId": "Tutorial_IntroLeaderboard",
+        "HighlightObject": "MainLeaderboard",
+        "Enter": {
+          "Type": "Immediate"
+        },
+        "Exit": {
+          "Category": "Main",
+          "Name": "Ranking",
+          "Type": "ButtonClick"
+        },
+        "Config": "HasOverlay, HideOnExit, Interactable",
+        "HasOverlay": true,
+        "HideOnExit": true,
+        "Interactable": true,
+        "PassThough": false,
+        "SaveOnExit": false
+      },
+      {
+        "State": "MainLeaderboardScore",
+        "Alignment": "TopCenter2",
+        "TextId": "Tutorial_IntroLeaderboardScore",
+        "HighlightObject": "MainLeaderboardScore",
+        "Enter": {
+          "Category": "Window",
+          "Name": "Club",
+          "Type": "UIViewData"
+        },
+        "Exit": {
+          "Type": "OverlayClick"
+        },
+        "Config": "HasOverlay, HideOnExit",
+        "HasOverlay": true,
+        "HideOnExit": true,
+        "Interactable": false,
+        "PassThough": false,
+        "SaveOnExit": false
+      },
+      {
+        "State": "MainFriend",
+        "Alignment": "CenterBottom2",
+        "TextId": "Tutorial_IntroFriendSystem",
+        "HighlightObject": "MainFriend",
+        "Enter": {
+          "Category": "Window",
+          "Name": "Main",
+          "Execute": "Show",
+          "Type": "UIViewExecute"
+        },
+        "Exit": {
+          "Category": "Main",
+          "Name": "Friend",
+          "Type": "ButtonClick"
+        },
+        "Config": "HasOverlay, HideOnExit, Interactable",
+        "HasOverlay": true,
+        "HideOnExit": true,
+        "Interactable": true,
+        "PassThough": false,
+        "SaveOnExit": false
+      },
+      {
+        "State": "MainFriendReferral",
+        "Alignment": "Bottom",
+        "TextId": "Tutorial_IntroReferral",
+        "HighlightObject": "FriendContentBonus",
+        "Enter": {
+          "Category": "Window",
+          "Name": "Friend",
+          "Type": "UIViewData"
+        },
+        "Exit": {
+          "Type": "OverlayClick"
+        },
+        "Config": "HasOverlay",
+        "HasOverlay": true,
+        "HideOnExit": false,
+        "Interactable": false,
+        "PassThough": false,
+        "SaveOnExit": false
+      },
+      {
+        "State": "MainFriendClickBuddyTree",
+        "Alignment": "TopCenter1",
+        "TextId": "None",
+        "HighlightObject": "FriendBuddyTreeTab",
+        "Enter": {
+          "Type": "Immediate"
+        },
+        "Exit": {
+          "Category": "Friend",
+          "Name": "Buddy",
+          "Type": "ToggleClick"
+        },
+        "Config": "HasOverlay, Interactable",
+        "HasOverlay": true,
+        "HideOnExit": false,
+        "Interactable": true,
+        "PassThough": false,
+        "SaveOnExit": false
+      },
+      {
+        "State": "MainFriendBuddyTree",
+        "Alignment": "Bottom",
+        "TextId": "Tutorial_IntroBuddyTree",
+        "HighlightObject": "FriendBuddyTreeHeader",
+        "Enter": {
+          "Type": "Immediate"
+        },
+        "Exit": {
+          "Type": "OverlayClick"
+        },
+        "Config": "HasOverlay",
+        "HasOverlay": true,
+        "HideOnExit": false,
+        "Interactable": false,
+        "PassThough": false,
+        "SaveOnExit": false
+      },
+      {
+        "State": "MainFriendBack",
+        "Alignment": "Bottom",
+        "TextId": "None",
+        "HighlightObject": "FriendBack",
+        "Enter": {
+          "Type": "Immediate"
+        },
+        "Exit": {
+          "Category": "Navigation",
+          "Name": "Back",
+          "Type": "ButtonClick"
+        },
+        "Config": "HasOverlay, HideOnExit, Interactable, SaveOnExit",
+        "HasOverlay": true,
+        "HideOnExit": true,
+        "Interactable": true,
+        "PassThough": false,
+        "SaveOnExit": true
+      },
+      {
+        "State": "MainQuest",
+        "Alignment": "CenterBottom2",
+        "TextId": "Tutorial_IntroQuest",
+        "HighlightObject": "MainQuest",
+        "Enter": {
+          "Category": "Window",
+          "Name": "Main",
+          "Execute": "Show",
+          "Type": "UIViewExecute"
+        },
+        "Exit": {
+          "Type": "OverlayClick"
+        },
+        "Config": "HasOverlay",
+        "HasOverlay": true,
+        "HideOnExit": false,
+        "Interactable": false,
+        "PassThough": false,
+        "SaveOnExit": false
+      },
+      {
+        "State": "MainGoodbye",
+        "Alignment": "Center",
+        "TextId": "Tutorial_Completed",
+        "HighlightObject": "None",
+        "Enter": {
+          "Type": "Immediate"
+        },
+        "Exit": {
+          "Type": "OverlayClick"
+        },
+        "Config": "HasOverlay, HideOnExit, SaveOnExit",
+        "HasOverlay": true,
+        "HideOnExit": true,
+        "Interactable": false,
+        "PassThough": false,
+        "SaveOnExit": true
+      }
+    ]
+  }
+]

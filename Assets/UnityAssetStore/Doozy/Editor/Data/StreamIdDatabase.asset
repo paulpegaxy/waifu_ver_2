@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1142824b18ef490e9311385acfe1c486, type: 3}
+  m_Name: StreamIdDatabase
+  m_EditorClassIdentifier: 
+  Database:
+    Items:
+    - Category: Game
+      Name: Init
+    - Category: Game
+      Name: Load
+    - Category: Game
+      Name: Loaded
+    - Category: None
+      Name: None
+    - Category: UI
+      Name: BackToMain
+    - Category: UI
+      Name: BackToSwipe
+    - Category: UI
+      Name: ChatList
+    - Category: UI
+      Name: Club
+    - Category: UI
+      Name: ClubBoost
+    - Category: UI
+      Name: ClubDetail
+    - Category: UI
+      Name: ClubRandom
+    - Category: UI
+      Name: CustomProfile
+    - Category: UI
+      Name: Dating
+    - Category: UI
+      Name: GalleryDetail
+    - Category: UI
+      Name: Jackpot
+    - Category: UI
+      Name: OpenEventBundle
+    - Category: UI
+      Name: OpenEventYuki
+    - Category: UI
+      Name: OpenFriend
+    - Category: UI
+      Name: OpenGallery
+    - Category: UI
+      Name: OpenIdleEarn
+    - Category: UI
+      Name: OpenPartner
+    - Category: UI
+      Name: OpenPlayerSummary
+    - Category: UI
+      Name: OpenQuest
+    - Category: UI
+      Name: OpenShop
+    - Category: UI
+      Name: OpenUpgrade
+    - Category: UI
+      Name: OpenUserProfile
+    - Category: UIVer2
+      Name: ChatList
+    - Category: UIVer2
+      Name: Friend
+    - Category: UIVer2
+      Name: Quest
+    - Category: UIVer2
+      Name: Shop
+    - Category: UIVer2
+      Name: Swipe

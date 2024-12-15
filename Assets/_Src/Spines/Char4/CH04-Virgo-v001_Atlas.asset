@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: CH04-Virgo-v001_Atlas
+  m_EditorClassIdentifier: 
+  textureLoadingMode: 0
+  onDemandTextureLoader: {fileID: 0}
+  atlasFile: {fileID: 4900000, guid: 77b9fc4b0c51e3243a0d0f2bf98f3d03, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 299afc17abd607b4a806e2ea07563743, type: 2}
+  - {fileID: 2100000, guid: 06b48a9ba298b834f8d3b71a1388f0ca, type: 2}
+  - {fileID: 2100000, guid: 150b361d7c9077443a6936544caac880, type: 2}
+  - {fileID: 2100000, guid: 057efce6cd28a6c46bcc08eed7453352, type: 2}

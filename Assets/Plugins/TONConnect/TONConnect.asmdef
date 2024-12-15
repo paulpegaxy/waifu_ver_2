@@ -1,0 +1,25 @@
+{
+    "name": "TONConnect",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:ff519f6bc113f45cea10e228e3db738c",
+        "GUID:e3e069904a912bf48b82847e6703e31d",
+        "GUID:e6be6bd2cac63ce49a95472c9d6e313a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.cysharp.unitask",
+            "expression": "",
+            "define": "TONCONNECT_UNITASK"
+        }
+    ],
+    "noEngineReferences": false
+}

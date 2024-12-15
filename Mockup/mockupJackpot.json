@@ -1,0 +1,79 @@
+{
+    "today_reward": 0,
+    "open_date": 1729382400,
+    "win_history": [
+      {
+        "user": {
+          "name": "Ngọc Linh 🍑",
+          "id": 1185
+        },
+        "win_amount": 0.011,
+        "created_at": "2024-11-05T08:24:55.089Z"
+      },
+      {
+        "user": {
+          "name": "Ryonn",
+          "id": 138
+        },
+        "win_amount": 0.005,
+        "created_at": "2024-10-30T23:23:05.476Z"
+      },
+      {
+        "user": {
+          "name": "Quy 🍑$WIFE",
+          "id": 1164
+        },
+        "win_amount": 0.005,
+        "created_at": "2024-10-29T09:12:10.498Z"
+      },
+      {
+        "user": {
+          "name": "Lucius @MergePalsBot",
+          "id": 53
+        },
+        "win_amount": 0.005,
+        "created_at": "2024-10-26T07:43:48.827Z"
+      },
+      {
+        "user": {
+          "name": "Lucius @MergePalsBot",
+          "id": 53
+        },
+        "win_amount": 0.015,
+        "created_at": "2024-10-25T08:54:05.069Z"
+      },
+      {
+        "user": {
+          "name": "Doris 🍅🌱SEED @mergepalsbot🐾",
+          "id": 1106
+        },
+        "win_amount": 0.015,
+        "created_at": "2024-10-24T04:35:41.686Z"
+      },
+      {
+        "user": {
+          "name": "Hanni$¥#* 💦😉 Hong@MergePalsBot",
+          "id": 1141
+        },
+        "win_amount": 0.02,
+        "created_at": "2024-10-23T15:22:29.194Z"
+      },
+      {
+        "user": {
+          "name": "Что ты делаешь @MergePalsBot Заем",
+          "id": 1113
+        },
+        "win_amount": 0.027,
+        "created_at": "2024-10-22T03:48:44.977Z"
+      },
+      {
+        "user": {
+          "name": "Trường @mergepalsbot 🦀🍅",
+          "id": 1104
+        },
+        "win_amount": 0.001,
+        "created_at": "2024-10-22T00:37:02.356Z"
+      }
+    ],
+    "reset_at": 1731110400
+  }

@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40b38be8bd5d4e2bb88a5afce348b23d, type: 3}
+  m_Name: BackgroundSOData
+  m_EditorClassIdentifier: 
+  dictBackground:
+    list:
+    - Key: 50000
+      Value:
+        id: 50000
+        backgroundId: 50000
+        name: Default
+        isHaveVfx: 0
+    - Key: 50002
+      Value:
+        id: 50002
+        backgroundId: 50002
+        name: Halloween
+        isHaveVfx: 1
+    - Key: 50001
+      Value:
+        id: 50001
+        backgroundId: tokyo_night
+        name: Tokyo Night
+        isHaveVfx: 0
+    keyCollision: 0
+  dictBgNormalChar:
+    list:
+    - Key: 20001
+      Value:
+        bgLevel_9: 20001_bg_lv9
+        bgLevel_10: 20001_bg_lv10
+    - Key: 20002
+      Value:
+        bgLevel_9: 
+        bgLevel_10: 
+    - Key: 20003
+      Value:
+        bgLevel_9: 
+        bgLevel_10: 
+    - Key: 20004
+      Value:
+        bgLevel_9: 
+        bgLevel_10: 
+    - Key: 20005
+      Value:
+        bgLevel_9: 
+        bgLevel_10: 
+    - Key: 20006
+      Value:
+        bgLevel_9: 
+        bgLevel_10: 
+    - Key: 20007
+      Value:
+        bgLevel_9: 
+        bgLevel_10: 
+    - Key: 20008
+      Value:
+        bgLevel_9: 
+        bgLevel_10: 
+    - Key: 20009
+      Value:
+        bgLevel_9: 
+        bgLevel_10: 
+    - Key: 30001
+      Value:
+        bgLevel_9: 
+        bgLevel_10: 
+    keyCollision: 0

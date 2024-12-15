@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa36a34e3fc9433b8d98b72688b670b2, type: 3}
+  m_Name: TapEffectSOData
+  m_EditorClassIdentifier: 
+  dictTapEffect:
+    list:
+    - Key: 60002
+      Value:
+        id: 60002
+        name: Halloween Tap
+        pathAssetName: tap_vfx_60002
+        resourceId: 60002
+        isDefault: 0
+    - Key: 60000
+      Value:
+        id: 60000
+        name: Default
+        pathAssetName: vfx_tap_girl
+        resourceId: 10001
+        isDefault: 1
+    keyCollision: 0
+  tapSfwEffect:
+    id: 60001
+    name: sfx
+    pathAssetName: tap_vfx_60001
+    resourceId: 60001
+    isDefault: 0

@@ -1,0 +1,42 @@
+[
+  {
+    "Type": "COMMON",
+    "Param": {
+      "ID": 0,
+      "Name": null,
+      "MaxLevelUnlock": 0
+    }
+  },
+  {
+    "Type": "RARE",
+    "Param": {
+      "ID": 1,
+      "Name": "Rare",
+      "MaxLevelUnlock": 10
+    }
+  },
+  {
+    "Type": "EPIC",
+    "Param": {
+      "ID": 2,
+      "Name": "Epic",
+      "MaxLevelUnlock": 15
+    }
+  },
+  {
+    "Type": "MYTHICAL",
+    "Param": {
+      "ID": 3,
+      "Name": "Mythical",
+      "MaxLevelUnlock": 20
+    }
+  },
+  {
+    "Type": "LEGENDARY",
+    "Param": {
+      "ID": 4,
+      "Name": "Legendary",
+      "MaxLevelUnlock": 25
+    }
+  }
+]

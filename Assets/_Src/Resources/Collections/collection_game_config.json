@@ -1,0 +1,11 @@
+[
+  {
+    "Type": "GamePlayConfig",
+    "Param": {
+      "startTurn": 10,
+      "initGateHp": 1000,
+      "initExp": 300,
+      "Type": "GamePlayConfig"
+    }
+  }
+]

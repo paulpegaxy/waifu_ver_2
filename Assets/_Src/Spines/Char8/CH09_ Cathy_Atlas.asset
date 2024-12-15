@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: CH09_ Cathy_Atlas
+  m_EditorClassIdentifier: 
+  textureLoadingMode: 0
+  onDemandTextureLoader: {fileID: 0}
+  atlasFile: {fileID: 4900000, guid: 34a47bde4a140e24f8057ab3e0eca15a, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 8c64349b08d162d4b8a40b07540179ab, type: 2}
+  - {fileID: 2100000, guid: 0478af8646624f34ab61f1a32cf1da30, type: 2}
+  - {fileID: 2100000, guid: 8ef7b7996dc23d947ac9e4cd660d9e7a, type: 2}

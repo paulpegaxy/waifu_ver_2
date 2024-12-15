@@ -1,0 +1,1426 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b95dc492bc14bbb903d76571ef119dc, type: 3}
+  m_Name: MatchDatingSOData
+  m_EditorClassIdentifier: 
+  keyGgSheet: 1pR9wc_KYwmalLbhqzO30d1Z3GDHazG7fFfXlAL2XahQ
+  dictData:
+    list:
+    - Key: 20003
+      Value:
+        girlId: 20003
+        rateMatching: 0.7
+        listMessData:
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 1.0
+                treeIndex: 1
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "Hey there! \U0001F60A Didn't expect to meet someone interesting
+                    here. What's your name?"
+                  listOption:
+                  - optionMessage: Just exploring, and you caught my attention!
+                    nextNodeOptionId: 1.1
+                  - optionMessage: Looking for good company. Seems like I found it.
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 1.1.1
+                treeIndex: 1
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: "Nice to meet you, [Player's Name]! So, tell me\u2014what
+                    brings you here? - TEST A"
+                  listOption: []
+                  nextNodeId: 2
+            - Key: 1.2
+              Value:
+                nodeId: 1.1.2
+                treeIndex: 1
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Just exploring, and you caught my attention!
+                  listOption: []
+                  nextNodeId: 2
+            - Key: 2
+              Value:
+                nodeId: 1.2
+                treeIndex: 1
+                nodeChildIdInTree: 2
+                speaker: Waifu
+                data:
+                  message: Hmm.
+                  listOption: []
+                  nextNodeId: 3
+            - Key: 3
+              Value:
+                nodeId: 1.3
+                treeIndex: 1
+                nodeChildIdInTree: 3
+                speaker: Waifu
+                data:
+                  message: Ok, I got it, next quest tion, [question]?
+                  listOption:
+                  - optionMessage: Option 4.1
+                    nextNodeOptionId: 4.1
+                  - optionMessage: Option 4.2
+                    nextNodeOptionId: 4.2
+                  nextNodeId: 
+            - Key: 4.1
+              Value:
+                nodeId: 1.4.1
+                treeIndex: 1
+                nodeChildIdInTree: 4.1
+                speaker: Player
+                data:
+                  message: Looking for good company. Seems like I found it.
+                  listOption: []
+                  nextNodeId: 5
+            - Key: 4.2
+              Value:
+                nodeId: 1.4.2
+                treeIndex: 1
+                nodeChildIdInTree: 4.2
+                speaker: Player
+                data:
+                  message: This is the answer for 3
+                  listOption: []
+                  nextNodeId: 5
+            - Key: 5
+              Value:
+                nodeId: 1.5
+                treeIndex: 1
+                nodeChildIdInTree: 5
+                speaker: Waifu
+                data:
+                  message: Waifu next question, [question]?
+                  listOption:
+                  - optionMessage: Otion 6.1
+                    nextNodeOptionId: 6.1
+                  - optionMessage: Option 6.2
+                    nextNodeOptionId: 6.2
+                  nextNodeId: 
+            - Key: 6.1
+              Value:
+                nodeId: 1.6.1
+                treeIndex: 1
+                nodeChildIdInTree: 6.1
+                speaker: Player
+                data:
+                  message: Answer 6.1 Option A
+                  listOption: []
+                  nextNodeId: 7
+            - Key: 6.2
+              Value:
+                nodeId: 1.6.2
+                treeIndex: 1
+                nodeChildIdInTree: 6.2
+                speaker: Player
+                data:
+                  message: Answer 6.2 Option B
+                  listOption: []
+                  nextNodeId: 7
+            - Key: 7
+              Value:
+                nodeId: 1.7
+                treeIndex: 1
+                nodeChildIdInTree: 7
+                speaker: Player
+                data:
+                  message: Player talk 7
+                  listOption: []
+                  nextNodeId: 8
+            - Key: 8
+              Value:
+                nodeId: 1.8
+                treeIndex: 1
+                nodeChildIdInTree: 8
+                speaker: Player
+                data:
+                  message: Player talk 8 - End Tree 1
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 2.0
+                treeIndex: 2
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "I like that answer! \U0001F60C It's not often I meet
+                    someone who\u2019s so straightforward."
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 3.0
+                treeIndex: 3
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "Since we\u2019re getting to know each other... here\u2019s
+                    a little something. sends a playful selfie"
+                  listOption:
+                  - optionMessage: Wow, you look amazing!
+                    nextNodeOptionId: 1.1
+                  - optionMessage: You have such a great smile!
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 3.1.1
+                treeIndex: 3
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: Answer A
+                  listOption: []
+                  nextNodeId: 
+            - Key: 1.2
+              Value:
+                nodeId: 3.1.2
+                treeIndex: 3
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Answer B
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 4.0
+                treeIndex: 4
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "Thank you! I\u2019m a little shy about it... but it's
+                    nice to hear."
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 5.0
+                treeIndex: 5
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: So, what kind of things are you into? Music? Movies?
+                  listOption:
+                  - optionMessage: I love music! Especially [genre]. What about you?
+                    nextNodeOptionId: 1.1
+                  - optionMessage: I'm more of a movie person. Got any favorites?
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 5.1.1
+                treeIndex: 5
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: Answer A
+                  listOption: []
+                  nextNodeId: 
+            - Key: 1.2
+              Value:
+                nodeId: 5.1.2
+                treeIndex: 5
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Answer B
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 6.0
+                treeIndex: 6
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "I love [Waifu\u2019s favorite genre]. We should listen
+                    to something together sometime. \U0001F3B6"
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 7.0
+                treeIndex: 7
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "sends a voice message 'This is just me saying hi... with
+                    a little mystery. \U0001F609'"
+                  listOption:
+                  - optionMessage: "Wow, I didn\u2019t expect that! You have a lovely
+                      voice."
+                    nextNodeOptionId: 1.1
+                  - optionMessage: "Now I\u2019m even more intrigued... What else
+                      are you hiding?"
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 7.1.1
+                treeIndex: 7
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: Answer A
+                  listOption: []
+                  nextNodeId: 
+            - Key: 1.2
+              Value:
+                nodeId: 7.1.2
+                treeIndex: 7
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Answer B
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 8.0
+                treeIndex: 8
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "Haha, I'll leave that for you to find out! Maybe you'll
+                    be lucky. \U0001F60F"
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 9.0
+                treeIndex: 9
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "So, [Player\u2019s Name]... any chance you'd be up for
+                    a little adventure?"
+                  listOption:
+                  - optionMessage: "Absolutely, I\u2019m up for anything!"
+                    nextNodeOptionId: 1.1
+                  - optionMessage: "Tell me more about this adventure... I\u2019m
+                      curious!"
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 9.1.1
+                treeIndex: 9
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: Answer A
+                  listOption: []
+                  nextNodeId: 
+            - Key: 1.2
+              Value:
+                nodeId: 9.1.2
+                treeIndex: 9
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Answer B
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+    - Key: 20004
+      Value:
+        girlId: 20004
+        rateMatching: 0.5
+        listMessData:
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 1.0
+                treeIndex: 1
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "Hey there! \U0001F60A Didn't expect to meet someone interesting
+                    here. What's your name?"
+                  listOption:
+                  - optionMessage: Just exploring, and you caught my attention!
+                    nextNodeOptionId: 1.1
+                  - optionMessage: Looking for good company. Seems like I found it.
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 1.1.1
+                treeIndex: 1
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: "Nice to meet you, [Player's Name]! So, tell me\u2014what
+                    brings you here? - TEST A"
+                  listOption: []
+                  nextNodeId: 2
+            - Key: 1.2
+              Value:
+                nodeId: 1.1.2
+                treeIndex: 1
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Just exploring, and you caught my attention!
+                  listOption: []
+                  nextNodeId: 2
+            - Key: 2
+              Value:
+                nodeId: 1.2
+                treeIndex: 1
+                nodeChildIdInTree: 2
+                speaker: Waifu
+                data:
+                  message: Hmm.
+                  listOption: []
+                  nextNodeId: 3
+            - Key: 3
+              Value:
+                nodeId: 1.3
+                treeIndex: 1
+                nodeChildIdInTree: 3
+                speaker: Waifu
+                data:
+                  message: Ok, I got it, next quest tion, [question]?
+                  listOption:
+                  - optionMessage: Option 4.1
+                    nextNodeOptionId: 4.1
+                  - optionMessage: Option 4.2
+                    nextNodeOptionId: 4.2
+                  nextNodeId: 
+            - Key: 4.1
+              Value:
+                nodeId: 1.4.1
+                treeIndex: 1
+                nodeChildIdInTree: 4.1
+                speaker: Player
+                data:
+                  message: Looking for good company. Seems like I found it.
+                  listOption: []
+                  nextNodeId: 5
+            - Key: 4.2
+              Value:
+                nodeId: 1.4.2
+                treeIndex: 1
+                nodeChildIdInTree: 4.2
+                speaker: Player
+                data:
+                  message: This is the answer for 3
+                  listOption: []
+                  nextNodeId: 5
+            - Key: 5
+              Value:
+                nodeId: 1.5
+                treeIndex: 1
+                nodeChildIdInTree: 5
+                speaker: Waifu
+                data:
+                  message: Waifu next question, [question]?
+                  listOption:
+                  - optionMessage: Otion 6.1
+                    nextNodeOptionId: 6.1
+                  - optionMessage: Option 6.2
+                    nextNodeOptionId: 6.2
+                  nextNodeId: 
+            - Key: 6.1
+              Value:
+                nodeId: 1.6.1
+                treeIndex: 1
+                nodeChildIdInTree: 6.1
+                speaker: Player
+                data:
+                  message: Answer 6.1 Option A
+                  listOption: []
+                  nextNodeId: 7
+            - Key: 6.2
+              Value:
+                nodeId: 1.6.2
+                treeIndex: 1
+                nodeChildIdInTree: 6.2
+                speaker: Player
+                data:
+                  message: Answer 6.2 Option B
+                  listOption: []
+                  nextNodeId: 7
+            - Key: 7
+              Value:
+                nodeId: 1.7
+                treeIndex: 1
+                nodeChildIdInTree: 7
+                speaker: Player
+                data:
+                  message: Player talk 7
+                  listOption: []
+                  nextNodeId: 8
+            - Key: 8
+              Value:
+                nodeId: 1.8
+                treeIndex: 1
+                nodeChildIdInTree: 8
+                speaker: Player
+                data:
+                  message: Player talk 8 - End Tree 1
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 2.0
+                treeIndex: 2
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "I like that answer! \U0001F60C It's not often I meet
+                    someone who\u2019s so straightforward."
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 3.0
+                treeIndex: 3
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "Since we\u2019re getting to know each other... here\u2019s
+                    a little something. sends a playful selfie"
+                  listOption:
+                  - optionMessage: Wow, you look amazing!
+                    nextNodeOptionId: 1.1
+                  - optionMessage: You have such a great smile!
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 3.1.1
+                treeIndex: 3
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: Answer A
+                  listOption: []
+                  nextNodeId: 
+            - Key: 1.2
+              Value:
+                nodeId: 3.1.2
+                treeIndex: 3
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Answer B
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 4.0
+                treeIndex: 4
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "Thank you! I\u2019m a little shy about it... but it's
+                    nice to hear."
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 5.0
+                treeIndex: 5
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: So, what kind of things are you into? Music? Movies?
+                  listOption:
+                  - optionMessage: I love music! Especially [genre]. What about you?
+                    nextNodeOptionId: 1.1
+                  - optionMessage: I'm more of a movie person. Got any favorites?
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 5.1.1
+                treeIndex: 5
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: Answer A
+                  listOption: []
+                  nextNodeId: 
+            - Key: 1.2
+              Value:
+                nodeId: 5.1.2
+                treeIndex: 5
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Answer B
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 6.0
+                treeIndex: 6
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "I love [Waifu\u2019s favorite genre]. We should listen
+                    to something together sometime. \U0001F3B6"
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 7.0
+                treeIndex: 7
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "sends a voice message 'This is just me saying hi... with
+                    a little mystery. \U0001F609'"
+                  listOption:
+                  - optionMessage: "Wow, I didn\u2019t expect that! You have a lovely
+                      voice."
+                    nextNodeOptionId: 1.1
+                  - optionMessage: "Now I\u2019m even more intrigued... What else
+                      are you hiding?"
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 7.1.1
+                treeIndex: 7
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: Answer A
+                  listOption: []
+                  nextNodeId: 
+            - Key: 1.2
+              Value:
+                nodeId: 7.1.2
+                treeIndex: 7
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Answer B
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 8.0
+                treeIndex: 8
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "Haha, I'll leave that for you to find out! Maybe you'll
+                    be lucky. \U0001F60F"
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 9.0
+                treeIndex: 9
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "So, [Player\u2019s Name]... any chance you'd be up for
+                    a little adventure?"
+                  listOption:
+                  - optionMessage: "Absolutely, I\u2019m up for anything!"
+                    nextNodeOptionId: 1.1
+                  - optionMessage: "Tell me more about this adventure... I\u2019m
+                      curious!"
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 9.1.1
+                treeIndex: 9
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: Answer A
+                  listOption: []
+                  nextNodeId: 
+            - Key: 1.2
+              Value:
+                nodeId: 9.1.2
+                treeIndex: 9
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Answer B
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+    - Key: 20005
+      Value:
+        girlId: 20005
+        rateMatching: 0.6
+        listMessData:
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 1.0
+                treeIndex: 1
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "Hey there! \U0001F60A Didn't expect to meet someone interesting
+                    here. What's your name?"
+                  listOption:
+                  - optionMessage: Just exploring, and you caught my attention!
+                    nextNodeOptionId: 1.1
+                  - optionMessage: Looking for good company. Seems like I found it.
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 1.1.1
+                treeIndex: 1
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: "Nice to meet you, [Player's Name]! So, tell me\u2014what
+                    brings you here? - TEST A"
+                  listOption: []
+                  nextNodeId: 2
+            - Key: 1.2
+              Value:
+                nodeId: 1.1.2
+                treeIndex: 1
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Just exploring, and you caught my attention!
+                  listOption: []
+                  nextNodeId: 2
+            - Key: 2
+              Value:
+                nodeId: 1.2
+                treeIndex: 1
+                nodeChildIdInTree: 2
+                speaker: Waifu
+                data:
+                  message: Hmm.
+                  listOption: []
+                  nextNodeId: 3
+            - Key: 3
+              Value:
+                nodeId: 1.3
+                treeIndex: 1
+                nodeChildIdInTree: 3
+                speaker: Waifu
+                data:
+                  message: Ok, I got it, next quest tion, [question]?
+                  listOption:
+                  - optionMessage: Option 4.1
+                    nextNodeOptionId: 4.1
+                  - optionMessage: Option 4.2
+                    nextNodeOptionId: 4.2
+                  nextNodeId: 
+            - Key: 4.1
+              Value:
+                nodeId: 1.4.1
+                treeIndex: 1
+                nodeChildIdInTree: 4.1
+                speaker: Player
+                data:
+                  message: Looking for good company. Seems like I found it.
+                  listOption: []
+                  nextNodeId: 5
+            - Key: 4.2
+              Value:
+                nodeId: 1.4.2
+                treeIndex: 1
+                nodeChildIdInTree: 4.2
+                speaker: Player
+                data:
+                  message: This is the answer for 3
+                  listOption: []
+                  nextNodeId: 5
+            - Key: 5
+              Value:
+                nodeId: 1.5
+                treeIndex: 1
+                nodeChildIdInTree: 5
+                speaker: Waifu
+                data:
+                  message: Waifu next question, [question]?
+                  listOption:
+                  - optionMessage: Otion 6.1
+                    nextNodeOptionId: 6.1
+                  - optionMessage: Option 6.2
+                    nextNodeOptionId: 6.2
+                  nextNodeId: 
+            - Key: 6.1
+              Value:
+                nodeId: 1.6.1
+                treeIndex: 1
+                nodeChildIdInTree: 6.1
+                speaker: Player
+                data:
+                  message: Answer 6.1 Option A
+                  listOption: []
+                  nextNodeId: 7
+            - Key: 6.2
+              Value:
+                nodeId: 1.6.2
+                treeIndex: 1
+                nodeChildIdInTree: 6.2
+                speaker: Player
+                data:
+                  message: Answer 6.2 Option B
+                  listOption: []
+                  nextNodeId: 7
+            - Key: 7
+              Value:
+                nodeId: 1.7
+                treeIndex: 1
+                nodeChildIdInTree: 7
+                speaker: Player
+                data:
+                  message: Player talk 7
+                  listOption: []
+                  nextNodeId: 8
+            - Key: 8
+              Value:
+                nodeId: 1.8
+                treeIndex: 1
+                nodeChildIdInTree: 8
+                speaker: Player
+                data:
+                  message: Player talk 8 - End Tree 1
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 2.0
+                treeIndex: 2
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "I like that answer! \U0001F60C It's not often I meet
+                    someone who\u2019s so straightforward."
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 3.0
+                treeIndex: 3
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "Since we\u2019re getting to know each other... here\u2019s
+                    a little something. sends a playful selfie"
+                  listOption:
+                  - optionMessage: Wow, you look amazing!
+                    nextNodeOptionId: 1.1
+                  - optionMessage: You have such a great smile!
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 3.1.1
+                treeIndex: 3
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: Answer A
+                  listOption: []
+                  nextNodeId: 
+            - Key: 1.2
+              Value:
+                nodeId: 3.1.2
+                treeIndex: 3
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Answer B
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 4.0
+                treeIndex: 4
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "Thank you! I\u2019m a little shy about it... but it's
+                    nice to hear."
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 5.0
+                treeIndex: 5
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: So, what kind of things are you into? Music? Movies?
+                  listOption:
+                  - optionMessage: I love music! Especially [genre]. What about you?
+                    nextNodeOptionId: 1.1
+                  - optionMessage: I'm more of a movie person. Got any favorites?
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 5.1.1
+                treeIndex: 5
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: Answer A
+                  listOption: []
+                  nextNodeId: 
+            - Key: 1.2
+              Value:
+                nodeId: 5.1.2
+                treeIndex: 5
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Answer B
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 6.0
+                treeIndex: 6
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "I love [Waifu\u2019s favorite genre]. We should listen
+                    to something together sometime. \U0001F3B6"
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 7.0
+                treeIndex: 7
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "sends a voice message 'This is just me saying hi... with
+                    a little mystery. \U0001F609'"
+                  listOption:
+                  - optionMessage: "Wow, I didn\u2019t expect that! You have a lovely
+                      voice."
+                    nextNodeOptionId: 1.1
+                  - optionMessage: "Now I\u2019m even more intrigued... What else
+                      are you hiding?"
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 7.1.1
+                treeIndex: 7
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: Answer A
+                  listOption: []
+                  nextNodeId: 
+            - Key: 1.2
+              Value:
+                nodeId: 7.1.2
+                treeIndex: 7
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Answer B
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 8.0
+                treeIndex: 8
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "Haha, I'll leave that for you to find out! Maybe you'll
+                    be lucky. \U0001F60F"
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 9.0
+                treeIndex: 9
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "So, [Player\u2019s Name]... any chance you'd be up for
+                    a little adventure?"
+                  listOption:
+                  - optionMessage: "Absolutely, I\u2019m up for anything!"
+                    nextNodeOptionId: 1.1
+                  - optionMessage: "Tell me more about this adventure... I\u2019m
+                      curious!"
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 9.1.1
+                treeIndex: 9
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: Answer A
+                  listOption: []
+                  nextNodeId: 
+            - Key: 1.2
+              Value:
+                nodeId: 9.1.2
+                treeIndex: 9
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Answer B
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+    - Key: 20006
+      Value:
+        girlId: 20006
+        rateMatching: 0.4
+        listMessData:
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 1.0
+                treeIndex: 1
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "Hey there! \U0001F60A Didn't expect to meet someone interesting
+                    here. What's your name?"
+                  listOption:
+                  - optionMessage: Just exploring, and you caught my attention!
+                    nextNodeOptionId: 1.1
+                  - optionMessage: Looking for good company. Seems like I found it.
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 1.1.1
+                treeIndex: 1
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: "Nice to meet you, [Player's Name]! So, tell me\u2014what
+                    brings you here? - TEST A"
+                  listOption: []
+                  nextNodeId: 2
+            - Key: 1.2
+              Value:
+                nodeId: 1.1.2
+                treeIndex: 1
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Just exploring, and you caught my attention!
+                  listOption: []
+                  nextNodeId: 2
+            - Key: 2
+              Value:
+                nodeId: 1.2
+                treeIndex: 1
+                nodeChildIdInTree: 2
+                speaker: Waifu
+                data:
+                  message: Hmm.
+                  listOption: []
+                  nextNodeId: 3
+            - Key: 3
+              Value:
+                nodeId: 1.3
+                treeIndex: 1
+                nodeChildIdInTree: 3
+                speaker: Waifu
+                data:
+                  message: Ok, I got it, next quest tion, [question]?
+                  listOption:
+                  - optionMessage: Option 4.1
+                    nextNodeOptionId: 4.1
+                  - optionMessage: Option 4.2
+                    nextNodeOptionId: 4.2
+                  nextNodeId: 
+            - Key: 4.1
+              Value:
+                nodeId: 1.4.1
+                treeIndex: 1
+                nodeChildIdInTree: 4.1
+                speaker: Player
+                data:
+                  message: Looking for good company. Seems like I found it.
+                  listOption: []
+                  nextNodeId: 5
+            - Key: 4.2
+              Value:
+                nodeId: 1.4.2
+                treeIndex: 1
+                nodeChildIdInTree: 4.2
+                speaker: Player
+                data:
+                  message: This is the answer for 3
+                  listOption: []
+                  nextNodeId: 5
+            - Key: 5
+              Value:
+                nodeId: 1.5
+                treeIndex: 1
+                nodeChildIdInTree: 5
+                speaker: Waifu
+                data:
+                  message: Waifu next question, [question]?
+                  listOption:
+                  - optionMessage: Otion 6.1
+                    nextNodeOptionId: 6.1
+                  - optionMessage: Option 6.2
+                    nextNodeOptionId: 6.2
+                  nextNodeId: 
+            - Key: 6.1
+              Value:
+                nodeId: 1.6.1
+                treeIndex: 1
+                nodeChildIdInTree: 6.1
+                speaker: Player
+                data:
+                  message: Answer 6.1 Option A
+                  listOption: []
+                  nextNodeId: 7
+            - Key: 6.2
+              Value:
+                nodeId: 1.6.2
+                treeIndex: 1
+                nodeChildIdInTree: 6.2
+                speaker: Player
+                data:
+                  message: Answer 6.2 Option B
+                  listOption: []
+                  nextNodeId: 7
+            - Key: 7
+              Value:
+                nodeId: 1.7
+                treeIndex: 1
+                nodeChildIdInTree: 7
+                speaker: Player
+                data:
+                  message: Player talk 7
+                  listOption: []
+                  nextNodeId: 8
+            - Key: 8
+              Value:
+                nodeId: 1.8
+                treeIndex: 1
+                nodeChildIdInTree: 8
+                speaker: Player
+                data:
+                  message: Player talk 8 - End Tree 1
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 2.0
+                treeIndex: 2
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "I like that answer! \U0001F60C It's not often I meet
+                    someone who\u2019s so straightforward."
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 3.0
+                treeIndex: 3
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "Since we\u2019re getting to know each other... here\u2019s
+                    a little something. sends a playful selfie"
+                  listOption:
+                  - optionMessage: Wow, you look amazing!
+                    nextNodeOptionId: 1.1
+                  - optionMessage: You have such a great smile!
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 3.1.1
+                treeIndex: 3
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: Answer A
+                  listOption: []
+                  nextNodeId: 
+            - Key: 1.2
+              Value:
+                nodeId: 3.1.2
+                treeIndex: 3
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Answer B
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 4.0
+                treeIndex: 4
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "Thank you! I\u2019m a little shy about it... but it's
+                    nice to hear."
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 5.0
+                treeIndex: 5
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: So, what kind of things are you into? Music? Movies?
+                  listOption:
+                  - optionMessage: I love music! Especially [genre]. What about you?
+                    nextNodeOptionId: 1.1
+                  - optionMessage: I'm more of a movie person. Got any favorites?
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 5.1.1
+                treeIndex: 5
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: Answer A
+                  listOption: []
+                  nextNodeId: 
+            - Key: 1.2
+              Value:
+                nodeId: 5.1.2
+                treeIndex: 5
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Answer B
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 6.0
+                treeIndex: 6
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "I love [Waifu\u2019s favorite genre]. We should listen
+                    to something together sometime. \U0001F3B6"
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 7.0
+                treeIndex: 7
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "sends a voice message 'This is just me saying hi... with
+                    a little mystery. \U0001F609'"
+                  listOption:
+                  - optionMessage: "Wow, I didn\u2019t expect that! You have a lovely
+                      voice."
+                    nextNodeOptionId: 1.1
+                  - optionMessage: "Now I\u2019m even more intrigued... What else
+                      are you hiding?"
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 7.1.1
+                treeIndex: 7
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: Answer A
+                  listOption: []
+                  nextNodeId: 
+            - Key: 1.2
+              Value:
+                nodeId: 7.1.2
+                treeIndex: 7
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Answer B
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 8.0
+                treeIndex: 8
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "Haha, I'll leave that for you to find out! Maybe you'll
+                    be lucky. \U0001F60F"
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+        - dictTreeChild:
+            list:
+            - Key: 0
+              Value:
+                nodeId: 9.0
+                treeIndex: 9
+                nodeChildIdInTree: 0
+                speaker: Waifu
+                data:
+                  message: "So, [Player\u2019s Name]... any chance you'd be up for
+                    a little adventure?"
+                  listOption:
+                  - optionMessage: "Absolutely, I\u2019m up for anything!"
+                    nextNodeOptionId: 1.1
+                  - optionMessage: "Tell me more about this adventure... I\u2019m
+                      curious!"
+                    nextNodeOptionId: 1.2
+                  nextNodeId: 
+            - Key: 1.1
+              Value:
+                nodeId: 9.1.1
+                treeIndex: 9
+                nodeChildIdInTree: 1.1
+                speaker: Player
+                data:
+                  message: Answer A
+                  listOption: []
+                  nextNodeId: 
+            - Key: 1.2
+              Value:
+                nodeId: 9.1.2
+                treeIndex: 9
+                nodeChildIdInTree: 1.2
+                speaker: Player
+                data:
+                  message: Answer B
+                  listOption: []
+                  nextNodeId: 
+            keyCollision: 0
+    keyCollision: 0

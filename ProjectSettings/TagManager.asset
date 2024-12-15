@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MainCanvas
+  - UICamera
+  - GameCamera
+  - GirlHead
+  - GirlBoob
+  - GirlOther
+  - BannerGirl
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Character
+  - CharacterHead
+  - CharacterBoob
+  - CharacterOther
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Message
+    uniqueID: 3562417073
+    locked: 0
+  - name: Popup
+    uniqueID: 2073532877
+    locked: 0
+  - name: Tutorial
+    uniqueID: 1788924395
+    locked: 0

@@ -1,0 +1,17 @@
+FX-tap01.png
+size:136,158
+filter:Linear,Linear
+pma:true
+fx-tap01
+bounds:85,101,55,33
+rotate:90
+fx-tap02
+bounds:85,61,44,38
+fx-tap03
+bounds:51,8,51,83
+rotate:90
+fx-tap04
+bounds:2,2,57,47
+rotate:90
+hand-cursor
+bounds:2,61,81,95

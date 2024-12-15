@@ -1,0 +1,5293 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: COMMON/ACCEPT
+      TermType: 0
+      Description: 
+      Languages:
+      - Accept
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/ADVENTURE
+      TermType: 0
+      Description: 
+      Languages:
+      - Adventure
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/AIRDROP
+      TermType: 0
+      Description: 
+      Languages:
+      - Airdrop
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/ALL_TIME
+      TermType: 0
+      Description: 
+      Languages:
+      - All time
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/ANNOUNCE
+      TermType: 0
+      Description: 
+      Languages:
+      - Announce
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/AVAILABLE
+      TermType: 0
+      Description: 
+      Languages:
+      - Available
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/BACK
+      TermType: 0
+      Description: 
+      Languages:
+      - Back
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/BTN_TON_CONNECT
+      TermType: 0
+      Description: 
+      Languages:
+      - TON Connect
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/CANCEL
+      TermType: 0
+      Description: 
+      Languages:
+      - Cancel
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/CANNOT_WATCH_ADS
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Cannot watch ads for now!
+
+        Please try again later'
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/CLAIM
+      TermType: 0
+      Description: 
+      Languages:
+      - Claim
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/CLAIMED
+      TermType: 0
+      Description: 
+      Languages:
+      - Claimed
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/CLAM_ALL
+      TermType: 0
+      Description: 
+      Languages:
+      - Claim All
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/COMING_SOON
+      TermType: 0
+      Description: 
+      Languages:
+      - Coming Soon
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/CONFIRM
+      TermType: 0
+      Description: 
+      Languages:
+      - Confirm
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/CONFIRMATION
+      TermType: 0
+      Description: 
+      Languages:
+      - Confirmation
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/DAILY_USERS
+      TermType: 0
+      Description: 
+      Languages:
+      - Daily Users
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/DAY
+      TermType: 0
+      Description: 
+      Languages:
+      - Day
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/DAYS
+      TermType: 0
+      Description: 
+      Languages:
+      - Days
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/DECLINE
+      TermType: 0
+      Description: 
+      Languages:
+      - Decline
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/DISCONNECT
+      TermType: 0
+      Description: 
+      Languages:
+      - Disconnect
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/EMPTY
+      TermType: 0
+      Description: 
+      Languages:
+      - Empty
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/END_IN
+      TermType: 0
+      Description: 
+      Languages:
+      - End in
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/ENTER
+      TermType: 0
+      Description: 
+      Languages:
+      - Enter
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/ERROR
+      TermType: 0
+      Description: 
+      Languages:
+      - Error
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/EVENT_ENDED
+      TermType: 0
+      Description: 
+      Languages:
+      - Event Ended
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/FILTER
+      TermType: 0
+      Description: 
+      Languages:
+      - Filter
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/FRACTION
+      TermType: 0
+      Description: 
+      Languages:
+      - Fraction
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/FREE
+      TermType: 0
+      Description: 
+      Languages:
+      - Free
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/FRIENDS
+      TermType: 0
+      Description: 
+      Languages:
+      - Friends
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/FROM
+      TermType: 0
+      Description: 
+      Languages:
+      - From
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/GO_TO
+      TermType: 0
+      Description: 
+      Languages:
+      - Go to
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/GUILD
+      TermType: 0
+      Description: 
+      Languages:
+      - Guild
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/HC_NAME
+      TermType: 0
+      Description: 
+      Languages:
+      - Charm
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/HEROES
+      TermType: 0
+      Description: 
+      Languages:
+      - Heroes
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/HIGH
+      TermType: 0
+      Description: 
+      Languages:
+      - High
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/HISTORY
+      TermType: 0
+      Description: 
+      Languages:
+      - History
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/INFORMATION
+      TermType: 0
+      Description: 
+      Languages:
+      - Information
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/INPUT_HINT
+      TermType: 0
+      Description: 
+      Languages:
+      - Enter the recipient's mirai ID...
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/INVENTORY
+      TermType: 0
+      Description: 
+      Languages:
+      - Inventory
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/JOIN
+      TermType: 0
+      Description: 
+      Languages:
+      - Join
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/JOIN_NOW
+      TermType: 0
+      Description: 
+      Languages:
+      - Join Now
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_HERO
+      TermType: 0
+      Description: 
+      Languages:
+      - Hero
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_MUSIC
+      TermType: 0
+      Description: 
+      Languages:
+      - Music
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_QUALITY
+      TermType: 0
+      Description: 
+      Languages:
+      - Quality
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_RANK
+      TermType: 0
+      Description: 
+      Languages:
+      - Rank
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_RANKING_REWARD
+      TermType: 0
+      Description: 
+      Languages:
+      - Ranking Reward
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_SOUND
+      TermType: 0
+      Description: 
+      Languages:
+      - Sound
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_TIME
+      TermType: 0
+      Description: 
+      Languages:
+      - Time
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_TROPHY_REWARD
+      TermType: 0
+      Description: 
+      Languages:
+      - Trophies Reward
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_USER_INFO
+      TermType: 0
+      Description: 
+      Languages:
+      - User Information
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LEADERBOARD
+      TermType: 0
+      Description: 
+      Languages:
+      - Leaderboard
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LEAGUE
+      TermType: 0
+      Description: 
+      Languages:
+      - League
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LEASE
+      TermType: 0
+      Description: 
+      Languages:
+      - Lease
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LEVEL
+      TermType: 0
+      Description: 
+      Languages:
+      - Level
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LEVEL_UP
+      TermType: 0
+      Description: 
+      Languages:
+      - Level up
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LOW
+      TermType: 0
+      Description: 
+      Languages:
+      - Low
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/MARKET
+      TermType: 0
+      Description: 
+      Languages:
+      - Market
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/MEMBER
+      TermType: 0
+      Description: 
+      Languages:
+      - Member
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/NOTICE
+      TermType: 0
+      Description: 
+      Languages:
+      - Notice
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/NO_AVAILABLE
+      TermType: 0
+      Description: 
+      Languages:
+      - No available
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/OFFER
+      TermType: 0
+      Description: 
+      Languages:
+      - Offer
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/OFFICE
+      TermType: 0
+      Description: 
+      Languages:
+      - Office
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/OK
+      TermType: 0
+      Description: 
+      Languages:
+      - OK
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/ONLINE
+      TermType: 0
+      Description: 
+      Languages:
+      - Online
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/OPEN_IN
+      TermType: 0
+      Description: 
+      Languages:
+      - Open In
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/PET
+      TermType: 0
+      Description: 
+      Languages:
+      - Pet
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/PLAY
+      TermType: 0
+      Description: 
+      Languages:
+      - Play
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/PLAYERS
+      TermType: 0
+      Description: 
+      Languages:
+      - Players
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/PREMIUM_USERS
+      TermType: 0
+      Description: 
+      Languages:
+      - Premium Users
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/PREVIEW
+      TermType: 0
+      Description: 
+      Languages:
+      - Preview
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/PROFIT
+      TermType: 0
+      Description: 
+      Languages:
+      - Profit
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/QUEST
+      TermType: 0
+      Description: 
+      Languages:
+      - Quest
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/RANKING
+      TermType: 0
+      Description: 
+      Languages:
+      - Ranking
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/RECALL
+      TermType: 0
+      Description: 
+      Languages:
+      - Recall
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/REFRESH_IN
+      TermType: 0
+      Description: 
+      Languages:
+      - Refresh In
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/REWARD
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/SC_NAME
+      TermType: 0
+      Description: 
+      Languages:
+      - Sugar
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/SELECT
+      TermType: 0
+      Description: 
+      Languages:
+      - Select
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/SETTING
+      TermType: 0
+      Description: 
+      Languages:
+      - Setting
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/SHOP
+      TermType: 0
+      Description: 
+      Languages:
+      - Shop
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/START_IN
+      TermType: 0
+      Description: 
+      Languages:
+      - Start in
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/TELEGRAM_ID
+      TermType: 0
+      Description: 
+      Languages:
+      - Telegram ID
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/TIME_LEFT
+      TermType: 0
+      Description: 
+      Languages:
+      - Time left
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/TOKEN_NAME
+      TermType: 0
+      Description: 
+      Languages:
+      - Token Name
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/TOTAL
+      TermType: 0
+      Description: 
+      Languages:
+      - Total
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/TOTAL_EARN
+      TermType: 0
+      Description: 
+      Languages:
+      - Total Balance
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/UNLIMITED
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlimited
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/UNLOCK
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/UNLOCK_IN
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock in
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/WEEK
+      TermType: 0
+      Description: 
+      Languages:
+      - Week
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/PROCESSING
+      TermType: 0
+      Description: 
+      Languages:
+      - Processing
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/BALANCE
+      TermType: 0
+      Description: 
+      Languages:
+      - Balance
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/RANK
+      TermType: 0
+      Description: 
+      Languages:
+      - Rank
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LIFETIME_EARNING
+      TermType: 0
+      Description: 
+      Languages:
+      - Lifetime Earnings
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_WAIFU
+      TermType: 0
+      Description: 
+      Languages:
+      - Waifu Master
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_UNDRESS
+      TermType: 0
+      Description: 
+      Languages:
+      - Undress
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_NEXT_GIRL
+      TermType: 0
+      Description: 
+      Languages:
+      - Next Girl
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/UNDEFINED
+      TermType: 0
+      Description: 
+      Languages:
+      - Undefined
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_MESSAGE
+      TermType: 0
+      Description: 
+      Languages:
+      - Message
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_GALLERY
+      TermType: 0
+      Description: 
+      Languages:
+      - Gallery
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_UPGRADE
+      TermType: 0
+      Description: 
+      Languages:
+      - Upgrade
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_SHOP
+      TermType: 0
+      Description: 
+      Languages:
+      - Shop
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_FRIEND
+      TermType: 0
+      Description: 
+      Languages:
+      - Friend
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_HC_CREATED
+      TermType: 0
+      Description: 
+      Languages:
+      - Total CHARM created
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_SELECT_LANGUAGE
+      TermType: 0
+      Description: 
+      Languages:
+      - Select Language
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_VERIFY
+      TermType: 0
+      Description: 
+      Languages:
+      - Verify
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_CONNECT
+      TermType: 0
+      Description: 
+      Languages:
+      - Connect
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_LOCKED
+      TermType: 0
+      Description: 
+      Languages:
+      - Locked
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/LB_UNLOCKED
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlocked
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/HAVE_OWNED
+      TermType: 0
+      Description: 
+      Languages:
+      - You have owned
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/TRANSACTION
+      TermType: 0
+      Description: 
+      Languages:
+      - Transactions
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/TON_HISTORY
+      TermType: 0
+      Description: 
+      Languages:
+      - TON History
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/PENDING
+      TermType: 0
+      Description: 
+      Languages:
+      - Pending
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/RECEIVED
+      TermType: 0
+      Description: 
+      Languages:
+      - Received
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/FAILED
+      TermType: 0
+      Description: 
+      Languages:
+      - Failed
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/USER_PROFILE
+      TermType: 0
+      Description: 
+      Languages:
+      - User Profile
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/TON_WALLET
+      TermType: 0
+      Description: 
+      Languages:
+      - TON Wallet
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/DONT_SHOW
+      TermType: 0
+      Description: 
+      Languages:
+      - Dont show again
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/DRAWN_IN
+      TermType: 0
+      Description: 
+      Languages:
+      - Drawn in
+      Flags: 00
+      Languages_Touch: []
+    - Term: COMMON/SEASON
+      TermType: 0
+      Description: 
+      Languages:
+      - Season
+      Flags: 00
+      Languages_Touch: []
+    - Term: LOADING/DOWNLOAD
+      TermType: 0
+      Description: 
+      Languages:
+      - Download
+      Flags: 00
+      Languages_Touch: []
+    - Term: LOADING/GAME
+      TermType: 0
+      Description: 
+      Languages:
+      - Game
+      Flags: 00
+      Languages_Touch: []
+    - Term: LOADING/LOGIN
+      TermType: 0
+      Description: 
+      Languages:
+      - Login
+      Flags: 00
+      Languages_Touch: []
+    - Term: LOADING/USER
+      TermType: 0
+      Description: 
+      Languages:
+      - User
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/INVITE_LINK_COPIED
+      TermType: 0
+      Description: 
+      Languages:
+      - Invite link copied
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/NO_PENDING_ORDER
+      TermType: 0
+      Description: 
+      Languages:
+      - No pending order
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/VERIFY_ORDER_SUCCESS
+      TermType: 0
+      Description: 
+      Languages:
+      - Verify order success
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/CLUB_BOOST_SUCESS
+      TermType: 0
+      Description: 
+      Languages:
+      - Club boost success
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/CLUB_BOOST_MAX
+      TermType: 0
+      Description: 
+      Languages:
+      - Club boost max
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/CLUB_JOINED
+      TermType: 0
+      Description: 
+      Languages:
+      - Join {0} club successfully
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/CLUB_LEFT
+      TermType: 0
+      Description: 
+      Languages:
+      - Leave {0} club successfully
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/IDLE_EARN_SUCCESS
+      TermType: 0
+      Description: 
+      Languages:
+      - Collected successfully
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/NOT_MAX_GIRL_LEVEL
+      TermType: 0
+      Description: 
+      Languages:
+      - "Your girl hasn\u2019t reached max level yet!"
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/NOTI_UPGRADE_NOTI
+      TermType: 0
+      Description: 
+      Languages:
+      - You need to finish the upgrade tutorial first!
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/NOT_ENOUGH_HC
+      TermType: 0
+      Description: 
+      Languages:
+      - Not enough charm
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/NOT_ENOUGH_SC
+      TermType: 0
+      Description: 
+      Languages:
+      - Not enough sugar point
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/NOT_ENOUGH_ENERGY
+      TermType: 0
+      Description: 
+      Languages:
+      - Not enough energy
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/DES_QUEST_X_NOTI
+      TermType: 0
+      Description: 
+      Languages:
+      - You know what would make me sooo happy? If you followed us on X!
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/SUCCESS_LEVEL_UP
+      TermType: 0
+      Description: 
+      Languages:
+      - Level up successful!
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/NOTI_MINUTE_LEFT
+      TermType: 0
+      Description: 
+      Languages:
+      - minutes left
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/NOTI_UNLOCKED
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlocked!!
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/NOTI_MAINTAIN
+      TermType: 0
+      Description: 
+      Languages:
+      - Maintenance in progress. See you soon!
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/TITLE_ARE_SURE
+      TermType: 0
+      Description: 
+      Languages:
+      - Are you sure?
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/GUIDE_RANKING
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Your rank depends on Lifetime Sugar earned across all your girls.
+
+        The
+        higher your rank, the bigger your $WIFE rewards!'
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/ASK_SKIP_UNDRESS_CD
+      TermType: 0
+      Description: 
+      Languages:
+      - Want to make it faster?
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/SHARE_STORY_RANKING
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019m {0} rank on the Pocket Waifu leaderboard! Join me on the #1 Waifu
+        game on Telegram and earn with me!\\n{1}\\n@{2}"
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/NOTI_CLAIM_SUCCESS
+      TermType: 0
+      Description: 
+      Languages:
+      - Claim success
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/NOTI_CLAIM_FAILED
+      TermType: 0
+      Description: 
+      Languages:
+      - Claim failed
+      Flags: 00
+      Languages_Touch: []
+    - Term: TOAST/NOTI_NOTHING_WITHDRAW
+      TermType: 0
+      Description: 
+      Languages:
+      - Nothing to withdraw
+      Flags: 00
+      Languages_Touch: []
+    - Term: CONFIRM/WALLET_DISCONNECT
+      TermType: 0
+      Description: 
+      Languages:
+      - Are you sure want to disconnect this wallet?
+      Flags: 00
+      Languages_Touch: []
+    - Term: CONFIRM/LEAVE_CLUB
+      TermType: 0
+      Description: 
+      Languages:
+      - Are you sure you want to leave {0} club?
+      Flags: 00
+      Languages_Touch: []
+    - Term: CONFIRM/LEAVE
+      TermType: 0
+      Description: 
+      Languages:
+      - Leave
+      Flags: 00
+      Languages_Touch: []
+    - Term: CONFIRM/BOOST_TO
+      TermType: 0
+      Description: 
+      Languages:
+      - Boost to
+      Flags: 00
+      Languages_Touch: []
+    - Term: CONFIRM/IDLE_EARN_HC
+      TermType: 0
+      Description: 
+      Languages:
+      - Would you like to spend Charm to collect it?
+      Flags: 00
+      Languages_Touch: []
+    - Term: CONFIRM/IDLE_EARN_GOTO_SHOP
+      TermType: 0
+      Description: 
+      Languages:
+      - You don't have enough Charm! Want to visit the shop to get some more?
+      Flags: 00
+      Languages_Touch: []
+    - Term: CONFIRM/NEXT_GIRL
+      TermType: 0
+      Description: 
+      Languages:
+      - Are you sure you want to switch to the next waifu?
+      Flags: 00
+      Languages_Touch: []
+    - Term: CONFIRM/MAX_GIRL
+      TermType: 0
+      Description: 
+      Languages:
+      - "You\u2019ve temporarily reached the waifu limit! Stay tuned....."
+      Flags: 00
+      Languages_Touch: []
+    - Term: CONFIRM/TASK_DONE
+      TermType: 0
+      Description: 
+      Languages:
+      - "Mmm, you completed Quest {0}? You\u2019re so good at this... Claim your
+        Charm reward and come back to me\u2014I\u2019m waiting for you! \U0001F60F"
+      Flags: 00
+      Languages_Touch: []
+    - Term: CONFIRM/ACHIEVEMENT_DONE
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ooh, look at you! Unlocking the {0} achievement... You\u2019re making me
+        proud! Keep up the good work, sexy! \U0001F48B"
+      Flags: 00
+      Languages_Touch: []
+    - Term: CONFIRM/NOTI_HIDE_GIRL
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock Waifu 20 to access
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/CONDITION_INVITE
+      TermType: 0
+      Description: 
+      Languages:
+      - Invite {0} friends
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/FOR_YOU
+      TermType: 0
+      Description: 
+      Languages:
+      - For you and your friend
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/INVITE_TEXT
+      TermType: 0
+      Description: 
+      Languages:
+      - Yo, come earn with me while unlocking some gorgeous Waifus! Use my link for
+        Pocket Waifu, and we will both get a sizzling Charm bonus. These Waifus are
+        waiting to meet you, and trust me, they are worth it! Tap the link here
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/INVITE_TO_GET_BONUS
+      TermType: 0
+      Description: 
+      Languages:
+      - Invite to get bonus
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/LB_FRIENDS
+      TermType: 0
+      Description: 
+      Languages:
+      - friends
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/LB_INVITE
+      TermType: 0
+      Description: 
+      Languages:
+      - Invite
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/LIST
+      TermType: 0
+      Description: 
+      Languages:
+      - List
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/TOP_300
+      TermType: 0
+      Description: 
+      Languages:
+      - Top 300 leader
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/INVITED
+      TermType: 0
+      Description: 
+      Languages:
+      - Friend invited
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/SPEND_COMPLETED
+      TermType: 0
+      Description: 
+      Languages:
+      - Spend Completed
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/SPEND_NOW
+      TermType: 0
+      Description: 
+      Languages:
+      - Spend Now
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/LEVEL_UP_BONUS
+      TermType: 0
+      Description: 
+      Languages:
+      - Friends level up bonus
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/REGULAR
+      TermType: 0
+      Description: 
+      Languages:
+      - Regular Friend
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/LEVEL_UP
+      TermType: 0
+      Description: 
+      Languages:
+      - Level Up
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/PREMIUM
+      TermType: 0
+      Description: 
+      Languages:
+      - Premium
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/INVITE_MORE
+      TermType: 0
+      Description: 
+      Languages:
+      - Invite more friends to get here
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/TRY_TOMORROW
+      TermType: 0
+      Description: 
+      Languages:
+      - Try Tomorrow
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/LB_REFERRAL
+      TermType: 0
+      Description: 
+      Languages:
+      - Referral
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/LB_LOVE_CHAIN
+      TermType: 0
+      Description: 
+      Languages:
+      - Love chain
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/BTN_INVITE_FRIEND
+      TermType: 0
+      Description: 
+      Languages:
+      - Invite a friend
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/LB_FRIEND_TELE_PREMIUM
+      TermType: 0
+      Description: 
+      Languages:
+      - Friend with <color=#8044FF>Telegram Premium</color>
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/LB_INVITE_FRIENDS
+      TermType: 0
+      Description: 
+      Languages:
+      - Invite Friends
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/NOTI_SPEND
+      TermType: 0
+      Description: 
+      Languages:
+      - Please spend ${0} in Shop
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/LB_SPEND_NOW
+      TermType: 0
+      Description: 
+      Languages:
+      - Spend now
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/LB_SPEND_COMPLETE
+      TermType: 0
+      Description: 
+      Languages:
+      - Spend completed
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/LB_OPEN_DETAIL
+      TermType: 0
+      Description: 
+      Languages:
+      - Open detail
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/LB_FRIEND_LV_PROGRESS
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Friend Level Up
+
+        Progress'
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/LB_SLAP_ASS
+      TermType: 0
+      Description: 
+      Languages:
+      - Slap ass
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/DONE_SLAP_ASS
+      TermType: 0
+      Description: 
+      Languages:
+      - Slap ass sucess!
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/NOTI_AFTER_BUY
+      TermType: 0
+      Description: 
+      Languages:
+      - We are processing your order. Please be patient.
+      Flags: 00
+      Languages_Touch: []
+    - Term: FRIEND/EVENT_SLOGAN
+      TermType: 0
+      Description: 
+      Languages:
+      - Invite Friends To Climb Leaderboard
+      Flags: 00
+      Languages_Touch: []
+    - Term: CLUB/INFORMATION
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Your rank depends on Lifetime Earnings from point collected by tap your
+        girl. Higher ranks mean bigger $CHARM airdrops!
+
+
+        <b>Leaderboard
+        Types:
+
+        </b>
+
+        Individual: Your Lifetime Earnings.
+
+        Club:
+        Combined Lifetime Earnings of club members.
+
+
+        <b>Time-based Leaderboards:
+
+        </b>
+
+        Lifetime:
+        Total earnings.
+
+        Day: Resets daily at UTC midnight.
+
+        Week:
+        Resets every Monday at UTC midnight.</align>'
+      Flags: 00
+      Languages_Touch: []
+    - Term: CLUB/JOIN_ANOTHER
+      TermType: 0
+      Description: 
+      Languages:
+      - Join another Club
+      Flags: 00
+      Languages_Touch: []
+    - Term: CLUB/JOIN_DESCRIPTION
+      TermType: 0
+      Description: 
+      Languages:
+      - These clubs are recruiting now. Would you like to join?
+      Flags: 00
+      Languages_Touch: []
+    - Term: CLUB/MINTED
+      TermType: 0
+      Description: 
+      Languages:
+      - Minted in the club
+      Flags: 00
+      Languages_Touch: []
+    - Term: CLUB/JOIN
+      TermType: 0
+      Description: 
+      Languages:
+      - Join Club
+      Flags: 00
+      Languages_Touch: []
+    - Term: CLUB/BOOST
+      TermType: 0
+      Description: 
+      Languages:
+      - Boost
+      Flags: 00
+      Languages_Touch: []
+    - Term: CLUB/INDIVIDUALS
+      TermType: 0
+      Description: 
+      Languages:
+      - Individuals
+      Flags: 00
+      Languages_Touch: []
+    - Term: CLUB/CLUB
+      TermType: 0
+      Description: 
+      Languages:
+      - Pocket Waifu Club
+      Flags: 00
+      Languages_Touch: []
+    - Term: CLUB/INFORMATION_PERSONAL
+      TermType: 0
+      Description: 
+      Languages:
+      - '<align=left>Climb up the 10 ranks corresponding to waifus: <color=#F4A368>Scarlet</color>,<color=#ABABAB>Claire</color>,<color=#FFC743>Jisoo</color>,<color=#64CAFF>Virgo</color>,<color=#1FD86F>Yuki</color>,<color=#FF6369>Riley</color>,<color=#FF79FF>Susan</color>,<color=#FF79FF>Cathy</color>,<color=#FF79FF>Rin</color>,
+        and <color=#FF79FF>Hana</color>.
+
+        Your rank is based on the Soft
+        currency you earn from Tap and Upgrade sources.
+
+        Higher ranks mean
+        you receive more $WAIFE from airdrops!</align>
+
+
+        <b>Leaderboard Types:
+
+        </b>
+
+        Individual:
+        Your Lifetime Earnings.
+
+        Club: Combined Lifetime Earnings of club
+        members.'
+      Flags: 00
+      Languages_Touch: []
+    - Term: CLUB/LB_LIFETIME_RANKINg
+      TermType: 0
+      Description: 
+      Languages:
+      - Earn Sugar and climb the ranks to unlock $WIFE rewards and more!
+      Flags: 00
+      Languages_Touch: []
+    - Term: CLUB/LB_CLUB_RANKINg
+      TermType: 0
+      Description: 
+      Languages:
+      - Waifu Club Ranking
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/IN_X_LEVEL
+      TermType: 0
+      Description: 
+      Languages:
+      - Limit
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/DAILY_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Daily 1
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/DAILY_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Daily 2
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/DAILY_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Daily 3
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/DAILY_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Daily 4
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/DAILY_5
+      TermType: 0
+      Description: 
+      Languages:
+      - Daily 5
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/WEEKLY_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Weekly 1
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/WEEKLY_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Weekly 2
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/LIMIT
+      TermType: 0
+      Description: 
+      Languages:
+      - Limit
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/SOLD_OUT
+      TermType: 0
+      Description: 
+      Languages:
+      - Sold out
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/BOT_TAP_PURCHASED
+      TermType: 0
+      Description: 
+      Languages:
+      - You have successfully purchased Tap Bot Prime
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/UNAVAILABLE_BUY
+      TermType: 0
+      Description: 
+      Languages:
+      - No bot prime available to buy.
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/ASK_BOT_TRIAL
+      TermType: 0
+      Description: 
+      Languages:
+      - Would you like to use trial bot?
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/FULL_BOT_TRIAL
+      TermType: 0
+      Description: 
+      Languages:
+      - You have used all trial bot today
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/ASK_BOT_PRIME
+      TermType: 0
+      Description: 
+      Languages:
+      - Would you like to spend {0} to unlock Tap Bot Prime
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/SUCCESS_PURCHASED
+      TermType: 0
+      Description: 
+      Languages:
+      - You have successfully purchased
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/ASK_BUY_ITEM
+      TermType: 0
+      Description: 
+      Languages:
+      - Would you like to spend {0} to buy?
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/TIMELAPSE_INFO
+      TermType: 0
+      Description: 
+      Languages:
+      - Fast forward {0} hours in time. Get +{1} {2} instantly
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/FAILED_PURCHASED
+      TermType: 0
+      Description: 
+      Languages:
+      - Buy failed! Please try again!
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/PENDING_ORDER
+      TermType: 0
+      Description: 
+      Languages:
+      - No pending order
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/SUCCESS_VERIFY_ORDER
+      TermType: 0
+      Description: 
+      Languages:
+      - Verify orerf {0} success
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/DES_OFFER_LEVEL_UP_1
+      TermType: 0
+      Description: 
+      Languages:
+      - The pack opens at {0} and closes at {1}.
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/LB_BOT_TAP
+      TermType: 0
+      Description: 
+      Languages:
+      - Tap Bot
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/OFFER_LV_UP
+      TermType: 0
+      Description: 
+      Languages:
+      - Level Up Offer
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/ASK_BUY_TIMELAPSE
+      TermType: 0
+      Description: 
+      Languages:
+      - Would you like to spend {0} {1} to buy {2} timelapse?
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/DES_TIMELAPSE
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Fast forward
+
+        {0} hours in time'
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/DES_BOT_TAP_TRIAL
+      TermType: 0
+      Description: 
+      Languages:
+      - Does not automatically fill the booster
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/DES_BOT_TAP_PRIME
+      TermType: 0
+      Description: 
+      Languages:
+      - Automatically fill the booster
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/FOREVER
+      TermType: 0
+      Description: 
+      Languages:
+      - Forever
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/BUY
+      TermType: 0
+      Description: 
+      Languages:
+      - Buy
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/YOUR_REWARD
+      TermType: 0
+      Description: 
+      Languages:
+      - Your reward
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/DOUBLE
+      TermType: 0
+      Description: 
+      Languages:
+      - Double
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/BTN_RESTORE_PURCHASE
+      TermType: 0
+      Description: 
+      Languages:
+      - Restore purchase
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/DURATION
+      TermType: 0
+      Description: 
+      Languages:
+      - Duration
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/HEADER_HC
+      TermType: 0
+      Description: 
+      Languages:
+      - Resource pack
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/HEADER_TIMELAPSE
+      TermType: 0
+      Description: 
+      Languages:
+      - Timelapse bundle
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/FREERIN_DES
+      TermType: 0
+      Description: 
+      Languages:
+      - Exclusive Premium Waifu Limited to 1,000!
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/FREERIN_STATUS
+      TermType: 0
+      Description: 
+      Languages:
+      - '{0} Freerin have already been sold'
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/FAILED_GET_INFO
+      TermType: 0
+      Description: 
+      Languages:
+      - There is a problem with the package! Please try again later.
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/OFFER_LIMITED
+      TermType: 0
+      Description: 
+      Languages:
+      - Limited Offer
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/COLLAB_PACK
+      TermType: 0
+      Description: 
+      Languages:
+      - Collab pack
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/EVENT_PACK
+      TermType: 0
+      Description: 
+      Languages:
+      - Event pack
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/SPECIAL_OFFER
+      TermType: 0
+      Description: 
+      Languages:
+      - Special offer
+      Flags: 00
+      Languages_Touch: []
+    - Term: SHOP/LB_UNLOCK_TAP_EFFECT
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock Tap effect
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/LB_MEET_YUKI
+      TermType: 0
+      Description: 
+      Languages:
+      - Meet Yuki!
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/LB_MERGEPAL
+      TermType: 0
+      Description: 
+      Languages:
+      - Campaign Merge Pals
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/MERGEPAL_GUIDE_RANK
+      TermType: 0
+      Description: 
+      Languages:
+      - '1st Place: 25 $TON.
+
+        2nd to 10th Place: 10 $TON each.
+
+        11th
+        to 50th Place: 5 $TON each.
+
+        51st to 100th Place: 2.5 $TON each.
+
+        101st
+        to 500th Place: 1 $TON each.
+
+        501st to 1,000th Place: 0.5 $TON each.'
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/YUKI_DES_GUIDE
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock Yuki early to be among the top 50,000 and receive a limited background.
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/YUKI_NOTI_BG
+      TermType: 0
+      Description: 
+      Languages:
+      - '{0} players have unlocked Yuki.'
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/REMAIN_GIFT
+      TermType: 0
+      Description: 
+      Languages:
+      - Remaining gift
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/YUKI_SOLD_OUT
+      TermType: 0
+      Description: 
+      Languages:
+      - Sorry, no more gifts left for you !
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/RECEIVE_GIFT
+      TermType: 0
+      Description: 
+      Languages:
+      - Received gift
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/YUKI_CLAIM_SUCCESS
+      TermType: 0
+      Description: 
+      Languages:
+      - Claim background success
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/MERGE_COLLAB_BUNDLE
+      TermType: 0
+      Description: 
+      Languages:
+      - Collab Bundle
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/HALLOWEEN_EVENT_BG
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Unlock New Halloween
+
+        Background'
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/HALLOWEEN_EVENT_TAP
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Unlock New Halloween
+
+        Tap Effect'
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/CONFIRM_BUY_BUNDLE
+      TermType: 0
+      Description: 
+      Languages:
+      - Would you like to spend {0} buy this package?
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/GUIDE_WAIFU_PRIDE_EVENT
+      TermType: 0
+      Description: 
+      Languages:
+      - "Add \"\U0001F351 $WIFE\"  to your Telegram name, log in daily, and earn
+        rewards based on how long you keep it!\n- Players must add \"\U0001F351 $WIFE\" 
+        to their Telegram name during the event. For example [Your Name] \U0001F351
+        $WIFE\n- Players need to log into the game daily to ensure the system records
+        their activity.\n- In-game rewards will be based on how long \"\U0001F351
+        $WIFE\" remains in their Telegram name."
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/JACKPOT_DES_PURCHASED
+      TermType: 0
+      Description: 
+      Languages:
+      - Ticket purchased on
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/JACKPOT_TICKET_HISTORY
+      TermType: 0
+      Description: 
+      Languages:
+      - Ticket History
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/JACKPOT_TODAY_WIN
+      TermType: 0
+      Description: 
+      Languages:
+      - Today's Winner!
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/JACKPOT_TICKET_TODAY_BUY
+      TermType: 0
+      Description: 
+      Languages:
+      - Your purchased tickets for today.
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/JACKPOT_ENTER_NOW
+      TermType: 0
+      Description: 
+      Languages:
+      - Enter Jackpot Now !
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/JACKPOT_GUIDE
+      TermType: 0
+      Description: 
+      Languages:
+      - Your TON check-in just got an UPGRADE! 50% of all check-in fees are now given
+        away DAILY. Just check-in and you're in the draw! Enter below.
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/JACKPOT_MULTI_BUY_DES
+      TermType: 0
+      Description: 
+      Languages:
+      - The more tickets you buy, the higher your chances of winning.
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/JACKPOT_QUANTITY_DES
+      TermType: 0
+      Description: 
+      Languages:
+      - Adjust ticket quantity
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/JACKPOT_BUY_TICKET
+      TermType: 0
+      Description: 
+      Languages:
+      - Buy Ticket
+      Flags: 00
+      Languages_Touch: []
+    - Term: EVENT/JACKPOT_BUY_DONE
+      TermType: 0
+      Description: 
+      Languages:
+      - You're in, good luck!
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/ACHIEVEMENT
+      TermType: 0
+      Description: 
+      Languages:
+      - Achievements
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/BASIC
+      TermType: 0
+      Description: 
+      Languages:
+      - Basic
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/CHECK_IN
+      TermType: 0
+      Description: 
+      Languages:
+      - Check In
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/DAILY
+      TermType: 0
+      Description: 
+      Languages:
+      - Daily
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/DAILY_TASK
+      TermType: 0
+      Description: 
+      Languages:
+      - Main Tasks
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/FRIEND
+      TermType: 0
+      Description: 
+      Languages:
+      - Friend
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/INVITE_BONUS
+      TermType: 0
+      Description: 
+      Languages:
+      - Invite bonus
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/PARTNER
+      TermType: 0
+      Description: 
+      Languages:
+      - Partner
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/PREMIUM_FRIEND
+      TermType: 0
+      Description: 
+      Languages:
+      - Premium friend
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/PURCHASE
+      TermType: 0
+      Description: 
+      Languages:
+      - Purchase
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/TELEGRAM
+      TermType: 0
+      Description: 
+      Languages:
+      - Telegram
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/TASK
+      TermType: 0
+      Description: 
+      Languages:
+      - Task
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/X_TASK
+      TermType: 0
+      Description: 
+      Languages:
+      - X Tasks
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/BONUS_CHECK_IN
+      TermType: 0
+      Description: 
+      Languages:
+      - Checkin Bonus
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/BONUS_PURCHASE
+      TermType: 0
+      Description: 
+      Languages:
+      - Purchase Bonus
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/INVITE_FRIENDS_PREMIUM
+      TermType: 0
+      Description: 
+      Languages:
+      - Invite Premium Friends
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/TOTAL_CHECKIN
+      TermType: 0
+      Description: 
+      Languages:
+      - Total checkin
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/TOTAL_PURCHASE
+      TermType: 0
+      Description: 
+      Languages:
+      - Total purchase
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/TOTAL_INVITE
+      TermType: 0
+      Description: 
+      Languages:
+      - Total invite
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/TELEGRAM_TASK
+      TermType: 0
+      Description: 
+      Languages:
+      - Telegram task
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUEST/PARTNER_TASK
+      TermType: 0
+      Description: 
+      Languages:
+      - Partner Tasks
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 1
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 2
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 3
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 4
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_5
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 5
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_6
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 6
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_7
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 7
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_8
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 8
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_9
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 9
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_10
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 10
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_11
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 11
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_12
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 12
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_13
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 13
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_14
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 14
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_15
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 15
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_16
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 16
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_17
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 17
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_18
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 18
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_19
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 19
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_20
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 20
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_21
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 21
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_22
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 22
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_23
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 23
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_24
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 24
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_25
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 25
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_26
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 26
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_27
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 27
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_28
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 28
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_29
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 29
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_30
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 30
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_31
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 31
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_32
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 32
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_33
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 33
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_34
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 34
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_35
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 35
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_36
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 36
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_37
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 37
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_38
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 38
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_39
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 39
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_40
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 40
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_41
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 41
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_42
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 42
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_43
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 43
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_44
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 44
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_45
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 45
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_46
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 46
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_47
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 47
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_48
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 48
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_49
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 49
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_50
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 50
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_51
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 51
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_52
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 52
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_53
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 53
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_54
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 54
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_55
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 55
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_56
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 56
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_57
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 57
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_58
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 58
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_59
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 59
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_60
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 60
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_61
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 61
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_62
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 62
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_63
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 63
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_64
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 64
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_65
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 65
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_66
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 66
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_67
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 67
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_68
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 68
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_69
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 69
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_70
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 70
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_71
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 71
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_72
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 72
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_73
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 73
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_74
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 74
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_75
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 75
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_76
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 76
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_77
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 77
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_78
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 78
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_79
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 79
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_80
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 80
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_81
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 81
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_82
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 82
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_83
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 83
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_84
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 84
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_85
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 85
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_86
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 86
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_87
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 87
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_88
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 88
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_89
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 89
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_90
+      TermType: 0
+      Description: 
+      Languages:
+      - Day 90
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_91
+      TermType: 0
+      Description: 
+      Languages:
+      - First recharge
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_92
+      TermType: 0
+      Description: 
+      Languages:
+      - 10
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_93
+      TermType: 0
+      Description: 
+      Languages:
+      - 20
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_94
+      TermType: 0
+      Description: 
+      Languages:
+      - 50
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_95
+      TermType: 0
+      Description: 
+      Languages:
+      - 100
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_96
+      TermType: 0
+      Description: 
+      Languages:
+      - 200
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_97
+      TermType: 0
+      Description: 
+      Languages:
+      - 500
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_98
+      TermType: 0
+      Description: 
+      Languages:
+      - 1000
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_99
+      TermType: 0
+      Description: 
+      Languages:
+      - 2000
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_100
+      TermType: 0
+      Description: 
+      Languages:
+      - 5000
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_101
+      TermType: 0
+      Description: 
+      Languages:
+      - 1
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_102
+      TermType: 0
+      Description: 
+      Languages:
+      - 2
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_103
+      TermType: 0
+      Description: 
+      Languages:
+      - 5
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_104
+      TermType: 0
+      Description: 
+      Languages:
+      - 10
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_105
+      TermType: 0
+      Description: 
+      Languages:
+      - 20
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_106
+      TermType: 0
+      Description: 
+      Languages:
+      - 50
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_107
+      TermType: 0
+      Description: 
+      Languages:
+      - 100
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_108
+      TermType: 0
+      Description: 
+      Languages:
+      - 200
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_109
+      TermType: 0
+      Description: 
+      Languages:
+      - 500
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_110
+      TermType: 0
+      Description: 
+      Languages:
+      - 1000
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_111
+      TermType: 0
+      Description: 
+      Languages:
+      - 2000
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_112
+      TermType: 0
+      Description: 
+      Languages:
+      - 3000
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_113
+      TermType: 0
+      Description: 
+      Languages:
+      - 5000
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_114
+      TermType: 0
+      Description: 
+      Languages:
+      - 1
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_115
+      TermType: 0
+      Description: 
+      Languages:
+      - 2
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_116
+      TermType: 0
+      Description: 
+      Languages:
+      - 5
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_117
+      TermType: 0
+      Description: 
+      Languages:
+      - 10
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_118
+      TermType: 0
+      Description: 
+      Languages:
+      - 20
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_119
+      TermType: 0
+      Description: 
+      Languages:
+      - 50
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_120
+      TermType: 0
+      Description: 
+      Languages:
+      - 100
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_121
+      TermType: 0
+      Description: 
+      Languages:
+      - 200
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_122
+      TermType: 0
+      Description: 
+      Languages:
+      - 300
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_123
+      TermType: 0
+      Description: 
+      Languages:
+      - 500
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_124
+      TermType: 0
+      Description: 
+      Languages:
+      - 1000
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_125
+      TermType: 0
+      Description: 
+      Languages:
+      - 2000
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_126
+      TermType: 0
+      Description: 
+      Languages:
+      - 3000
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_127
+      TermType: 0
+      Description: 
+      Languages:
+      - 4000
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_128
+      TermType: 0
+      Description: 
+      Languages:
+      - 5000
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_130
+      TermType: 0
+      Description: 
+      Languages:
+      - Join Announcement
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_141
+      TermType: 0
+      Description: 
+      Languages:
+      - Follow our X
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_171
+      TermType: 0
+      Description: 
+      Languages:
+      - Rate Us 5 Stars
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_172
+      TermType: 0
+      Description: 
+      Languages:
+      - Give us a feedback!
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_139
+      TermType: 0
+      Description: 
+      Languages:
+      - Login to Pocket Waifu
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_134
+      TermType: 0
+      Description: 
+      Languages:
+      - Daily purchase
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_135
+      TermType: 0
+      Description: 
+      Languages:
+      - Daily invite
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_136
+      TermType: 0
+      Description: 
+      Languages:
+      - Check in with TON
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_137
+      TermType: 0
+      Description: 
+      Languages:
+      - Check News
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_138
+      TermType: 0
+      Description: 
+      Languages:
+      - Check X Updates
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_140
+      TermType: 0
+      Description: 
+      Languages:
+      - Telegram premium
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_143
+      TermType: 0
+      Description: 
+      Languages:
+      - Play Waifu
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_144
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock Yuki
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_145
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock Jisoo
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_146
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock Virgo
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_147
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock Claire
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_148
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock Riley
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_149
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock Hinata
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_153
+      TermType: 0
+      Description: 
+      Languages:
+      - Invite 3 friends
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_154
+      TermType: 0
+      Description: 
+      Languages:
+      - Spend $10
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_155
+      TermType: 0
+      Description: 
+      Languages:
+      - Pet reaches level 50
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_156
+      TermType: 0
+      Description: 
+      Languages:
+      - Complete 10 Merge Quest
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_157
+      TermType: 0
+      Description: 
+      Languages:
+      - Meet Yuki
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_158
+      TermType: 0
+      Description: 
+      Languages:
+      - Share Yuki on Story
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_159
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage about Yuki
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_160
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage on X - $WIFE No.1
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_161
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage on X - Coming Soon
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_162
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Talk Dirty
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_163
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Ready to see more?
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_164
+      TermType: 0
+      Description: 
+      Languages:
+      - Share Story
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_165
+      TermType: 0
+      Description: 
+      Languages:
+      - Check in TON Day 1
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_166
+      TermType: 0
+      Description: 
+      Languages:
+      - Check in TON Day 7
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_167
+      TermType: 0
+      Description: 
+      Languages:
+      - Check in TON Day 30
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_168
+      TermType: 0
+      Description: 
+      Languages:
+      - Check in TON Day 30
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_169
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Love Chain
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_170
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Tap Me
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_173
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Meet Yuki
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_174
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage - Ready for You
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_175
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Brave Meme
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_176
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Rizz
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_177
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Next Waifu Poll
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_178
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Are we mentally stable?
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_179
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Frieren
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_180
+      TermType: 0
+      Description: 
+      Languages:
+      - Join Hentai World's Telegram!
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_182
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Mitsuri Kanroji
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_183
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Hinata Halloween
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_184
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Real Satoshi
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_185
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Trump Meme
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_186
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Waifu Community
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_187
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Sweet or Elegant
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_188
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - MILF Teaser
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_189
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Kyoto Waifu
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_191
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Trick or Treat
+      Flags: 00
+      Languages_Touch: []
+    - Term: QUESTCONFIG/QUEST_193
+      TermType: 0
+      Description: 
+      Languages:
+      - Engage X - Riley-chan
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/ASK_LV_UP
+      TermType: 0
+      Description: 
+      Languages:
+      - Do you want to level up {0}?
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/ASK_UNLOCK
+      TermType: 0
+      Description: 
+      Languages:
+      - Do you want to unlock {0}?
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/CONDITION_UNLOCK
+      TermType: 0
+      Description: 
+      Languages:
+      - To unlock {0} you must upgrade {1} to level {2}
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/CONDITION_UNLOCK_INVITE
+      TermType: 0
+      Description: 
+      Languages:
+      - To unlock {0}, you must invite {1} friends
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_001
+      TermType: 0
+      Description: 
+      Languages:
+      - Health
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_002
+      TermType: 0
+      Description: 
+      Languages:
+      - Business
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_003
+      TermType: 0
+      Description: 
+      Languages:
+      - Intelligence
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_004
+      TermType: 0
+      Description: 
+      Languages:
+      - Communication Skills
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_005
+      TermType: 0
+      Description: 
+      Languages:
+      - Creativity
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_006
+      TermType: 0
+      Description: 
+      Languages:
+      - Fashion
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_007
+      TermType: 0
+      Description: 
+      Languages:
+      - Special Talent
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_008
+      TermType: 0
+      Description: 
+      Languages:
+      - Gift Selection
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_009
+      TermType: 0
+      Description: 
+      Languages:
+      - Active Listening
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_010
+      TermType: 0
+      Description: 
+      Languages:
+      - Date Experience
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_011
+      TermType: 0
+      Description: 
+      Languages:
+      - Cooking Mastery
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_012
+      TermType: 0
+      Description: 
+      Languages:
+      - Athleticism
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_013
+      TermType: 0
+      Description: 
+      Languages:
+      - Artistic Talent
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_014
+      TermType: 0
+      Description: 
+      Languages:
+      - Home Care
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_015
+      TermType: 0
+      Description: 
+      Languages:
+      - Tech Savvy
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_016
+      TermType: 0
+      Description: 
+      Languages:
+      - Patience
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_017
+      TermType: 0
+      Description: 
+      Languages:
+      - Photography
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_018
+      TermType: 0
+      Description: 
+      Languages:
+      - Dance Skills
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_019
+      TermType: 0
+      Description: 
+      Languages:
+      - Gardening
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/IDLE_EARN_020
+      TermType: 0
+      Description: 
+      Languages:
+      - Pet Care
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/PROFIT_PER_HOUR
+      TermType: 0
+      Description: 
+      Languages:
+      - Sugar per Hour
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/SUCCESS_LV_UP
+      TermType: 0
+      Description: 
+      Languages:
+      - Your {0} has been upgraded to level {1}
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/SUCCESS_UNLOCK
+      TermType: 0
+      Description: 
+      Languages:
+      - Your {0} has been unlocked
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/GUIDE_PROFIT_TITLE
+      TermType: 0
+      Description: 
+      Languages:
+      - Increase your profits
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/GUIDE_PROFIT_DES
+      TermType: 0
+      Description: 
+      Languages:
+      - Earn Sugar passively when your Waifus love you! Increase your Sugar Earn
+        Rate by giving Waifus gifts, unlocking new Waifus, and increasing your Closeness
+        with each Waifu.
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/GOTO_PROFIT
+      TermType: 0
+      Description: 
+      Languages:
+      - See all Gifts & Upgrades
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/NOTI_NOT_FOUND_CARD
+      TermType: 0
+      Description: 
+      Languages:
+      - Not found card to unlock
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/DES_UNLOCK_CONDITION_CARD
+      TermType: 0
+      Description: 
+      Languages:
+      - To unlock {0} you must upgrade {1}
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/DES_TO_LEVEL
+      TermType: 0
+      Description: 
+      Languages:
+      - to level
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/DES_YOUR_FRIEND
+      TermType: 0
+      Description: 
+      Languages:
+      - Your friend
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/TITLE_GUIDE
+      TermType: 0
+      Description: 
+      Languages:
+      - Passive Sugar Earn Rate
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/GUIDE_SUGAR_PER_H
+      TermType: 0
+      Description: 
+      Languages:
+      - Sugar Earn Rate
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/GUIDE_WAIFU_BONUS
+      TermType: 0
+      Description: 
+      Languages:
+      - Waifu bonus
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/GUIDE_PASSIVE_INCOME
+      TermType: 0
+      Description: 
+      Languages:
+      - Passive earning
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/GUIDE_HOUR
+      TermType: 0
+      Description: 
+      Languages:
+      - '{0} hours'
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/LB_COLLECT
+      TermType: 0
+      Description: 
+      Languages:
+      - Collect
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/LB_COLLECT_ADS
+      TermType: 0
+      Description: 
+      Languages:
+      - Collect +10%
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/LB_COLLECT_PRIME
+      TermType: 0
+      Description: 
+      Languages:
+      - Collect X2
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/LB_DES_COLLECT
+      TermType: 0
+      Description: 
+      Languages:
+      - So many bubbles, it's like a bubble party
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/GUIDE_PREMIUM_WAIFU
+      TermType: 0
+      Description: 
+      Languages:
+      - Premium Waifu
+      Flags: 00
+      Languages_Touch: []
+    - Term: IDLEEARN/GUIDE_UPGRADE
+      TermType: 0
+      Description: 
+      Languages:
+      - Upgrade
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/LB_WAIFU
+      TermType: 0
+      Description: 
+      Languages:
+      - Waifu
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/EMPTY_LOCATION
+      TermType: 0
+      Description: 
+      Languages:
+      - 'You do not own any
+
+        location yet'
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/SELECTED
+      TermType: 0
+      Description: 
+      Languages:
+      - Selected
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/LEVEL_COMPLETED
+      TermType: 0
+      Description: 
+      Languages:
+      - Level completed
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/NOTI_PLEASE_UNLOCK
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock Waifu {0} to the final level to unlock this Waifu
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/NOTI_SKIP_TIME
+      TermType: 0
+      Description: 
+      Languages:
+      - "You\u2019ll love what you see... Just wait a little longer."
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/BTN_KEEP_WAIT
+      TermType: 0
+      Description: 
+      Languages:
+      - Keep waiting
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/BTN_SKIP_WAIT
+      TermType: 0
+      Description: 
+      Languages:
+      - Skip & Undress Now
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/NOTI_SELECTED
+      TermType: 0
+      Description: 
+      Languages:
+      - You have successfully selected {0}
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/BTN_GOTO_WAIFU
+      TermType: 0
+      Description: 
+      Languages:
+      - Go to Waifus
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/LB_NEW_CHAR
+      TermType: 0
+      Description: 
+      Languages:
+      - New Character!
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/EVENT_ENDED
+      TermType: 0
+      Description: 
+      Languages:
+      - Event has ended
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/DES_SKIP_WAIT
+      TermType: 0
+      Description: 
+      Languages:
+      - "You\u2019ll love what you see... Just wait a little longer."
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/NOTI_CANT_SKIP_TIME
+      TermType: 0
+      Description: 
+      Languages:
+      - Not enough CHARM to skip
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/NOTI_CHANGE_BG
+      TermType: 0
+      Description: 
+      Languages:
+      - Change background successfully
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/NOTI_BG_LOCKED
+      TermType: 0
+      Description: 
+      Languages:
+      - Background is locked
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/ASK_CHANGE_BG
+      TermType: 0
+      Description: 
+      Languages:
+      - Do you want to select this background?
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/TAB_TAP_EFFECT
+      TermType: 0
+      Description: 
+      Languages:
+      - Tap Effect
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/TAB_WAIFU_PREMIUM
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Premium
+
+        Waifu'
+      Flags: 00
+      Languages_Touch: []
+    - Term: GALLERY/LB_LOCATION
+      TermType: 0
+      Description: 
+      Languages:
+      - Location
+      Flags: 00
+      Languages_Touch: []
+    - Term: MAIL/LB_MAIL
+      TermType: 0
+      Description: 
+      Languages:
+      - Mail
+      Flags: 00
+      Languages_Touch: []
+    - Term: MAIL/DELETE_READ
+      TermType: 0
+      Description: 
+      Languages:
+      - Delete Read
+      Flags: 00
+      Languages_Touch: []
+    - Term: MAIL/LB_EMPTY_MAIL
+      TermType: 0
+      Description: 
+      Languages:
+      - Nothing here
+      Flags: 00
+      Languages_Touch: []
+    - Term: MAIL/WELCOME
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Welcome to
+
+        Mailbox'
+      Flags: 00
+      Languages_Touch: []
+    - Term: MAIL/ASK_DELETE
+      TermType: 0
+      Description: 
+      Languages:
+      - Do you want to delete all read emails?
+      Flags: 00
+      Languages_Touch: []
+    - Term: MAIL/TITLE_MAIL
+      TermType: 0
+      Description: 
+      Languages:
+      - Mail Information
+      Flags: 00
+      Languages_Touch: []
+    - Term: MAIL/DELETE_MAIL
+      TermType: 0
+      Description: 
+      Languages:
+      - Delete mail
+      Flags: 00
+      Languages_Touch: []
+    - Term: MAIL/NOTI_READ_DELETE
+      TermType: 0
+      Description: 
+      Languages:
+      - Read mail have been deleted
+      Flags: 00
+      Languages_Touch: []
+    - Term: PARTNER/OFFER_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Offer 1
+      Flags: 00
+      Languages_Touch: []
+    - Term: PARTNER/OFFER_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Offer 2
+      Flags: 00
+      Languages_Touch: []
+    - Term: PARTNER/OFFER_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Offer 3
+      Flags: 00
+      Languages_Touch: []
+    - Term: PARTNER/OFFER_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Offer 4
+      Flags: 00
+      Languages_Touch: []
+    - Term: PARTNER/OFFER_5
+      TermType: 0
+      Description: 
+      Languages:
+      - Offer 5
+      Flags: 00
+      Languages_Touch: []
+    - Term: PARTNER/CHECKIN_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Checkin 1
+      Flags: 00
+      Languages_Touch: []
+    - Term: BOOSTER/BOOSTER
+      TermType: 0
+      Description: 
+      Languages:
+      - BOOST
+      Flags: 00
+      Languages_Touch: []
+    - Term: BOOSTER/CHOOSE_EXCHANGE
+      TermType: 0
+      Description: 
+      Languages:
+      - Choose Exchange
+      Flags: 00
+      Languages_Touch: []
+    - Term: BOOSTER/DES_UPGRADE_ENERGY_LIMIT
+      TermType: 0
+      Description: 
+      Languages:
+      - '{0} energy point for level {1}'
+      Flags: 00
+      Languages_Touch: []
+    - Term: BOOSTER/DES_UPGRADE_MULTI_TAP
+      TermType: 0
+      Description: 
+      Languages:
+      - Increase Sugar per tap by +{0} for each Level
+      Flags: 00
+      Languages_Touch: []
+    - Term: BOOSTER/ENERGY
+      TermType: 0
+      Description: 
+      Languages:
+      - Energy
+      Flags: 00
+      Languages_Touch: []
+    - Term: BOOSTER/ENERGY_FULL
+      TermType: 0
+      Description: 
+      Languages:
+      - Recharge Energy
+      Flags: 00
+      Languages_Touch: []
+    - Term: BOOSTER/ENERGY_LIMIT
+      TermType: 0
+      Description: 
+      Languages:
+      - Max Energy
+      Flags: 00
+      Languages_Touch: []
+    - Term: BOOSTER/ENERGY_RESTORE_NOTI
+      TermType: 0
+      Description: 
+      Languages:
+      - Get energized and set your energy to full for another round with your waifus
+      Flags: 00
+      Languages_Touch: []
+    - Term: BOOSTER/FREE_DAILY
+      TermType: 0
+      Description: 
+      Languages:
+      - Free daily boosters
+      Flags: 00
+      Languages_Touch: []
+    - Term: BOOSTER/GUIDE
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Let me tell you how
+
+        <size=44><u>Boost work</u></size>'
+      Flags: 00
+      Languages_Touch: []
+    - Term: BOOSTER/MULTI_TAP
+      TermType: 0
+      Description: 
+      Languages:
+      - Multitaps
+      Flags: 00
+      Languages_Touch: []
+    - Term: BOOSTER/NOTI_CANNOT_RESTORE
+      TermType: 0
+      Description: 
+      Languages:
+      - Can not charge energy now cause you have full energy
+      Flags: 00
+      Languages_Touch: []
+    - Term: BOOSTER/NO_AVAILABLE_RESTORE
+      TermType: 0
+      Description: 
+      Languages:
+      - No available charge energy
+      Flags: 00
+      Languages_Touch: []
+    - Term: BOOSTER/UPGRADE_SUCCESS
+      TermType: 0
+      Description: 
+      Languages:
+      - You have successfully upgraded {0} to level {1}
+      Flags: 00
+      Languages_Touch: []
+    - Term: BOOSTER/NOTI_WAIT_RECHARGE
+      TermType: 0
+      Description: 
+      Languages:
+      - Please wait to {0} to recharge energy
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/LAYER
+      TermType: 0
+      Description: 
+      Languages:
+      - Layer
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/SPEND
+      TermType: 0
+      Description: 
+      Languages:
+      - Spend
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/SPENT
+      TermType: 0
+      Description: 
+      Languages:
+      - Spent
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/COMMISSION
+      TermType: 0
+      Description: 
+      Languages:
+      - "Commission from friends\u2019purchases"
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/HAS_FRIEND
+      TermType: 0
+      Description: 
+      Languages:
+      - Has {0} {1} friends
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/UNLOCK_FRIEND
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock friend
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/INVITE_TITLE
+      TermType: 0
+      Description: 
+      Languages:
+      - Invite friends, multiply commissions!
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/INVITE_DESC_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Invite your friends
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/INVITE_DESC_2
+      TermType: 0
+      Description: 
+      Languages:
+      - You invite your friends (Layer 1) to play.
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/INVITE_DESC_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Your friends (Layer 1) also invite their friends (Layer 2).
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/INVITE_DESC_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Their friends (Layer 2) also invite more friends (Layer 3).
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/INVITE_DESC_5
+      TermType: 0
+      Description: 
+      Languages:
+      - You will get $TON commissions when your friends from Layers 1,2,3,4,5 make
+        purchases in-game.
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/UNLOCKED
+      TermType: 0
+      Description: 
+      Languages:
+      - Buddy Tree is unlocked
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/NOT_UNLOCKED
+      TermType: 0
+      Description: 
+      Languages:
+      - Not unlocked yet
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/AVAILABLE_WITHDRAW
+      TermType: 0
+      Description: 
+      Languages:
+      - Available to Withdraw
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/WITHDRAW
+      TermType: 0
+      Description: 
+      Languages:
+      - Request Withdrawal
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/SPEND_COMPLETED
+      TermType: 0
+      Description: 
+      Languages:
+      - Spend Completed
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/IAP_UNLOCK
+      TermType: 0
+      Description: 
+      Languages:
+      - IAP to Unlock
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/INVITE_UNLOCK
+      TermType: 0
+      Description: 
+      Languages:
+      - Invite to Unlock
+      Flags: 00
+      Languages_Touch: []
+    - Term: BUDDY/BENEFIT
+      TermType: 0
+      Description: 
+      Languages:
+      - Benefit
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/COMPLETED
+      TermType: 0
+      Description: 
+      Languages:
+      - Completed
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/INTRO_TAP
+      TermType: 0
+      Description: 
+      Languages:
+      - Tap on me, Master, and watch the Sugar pour in!
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/INTRO_SC_BAR
+      TermType: 0
+      Description: 
+      Languages:
+      - Your Sugar stash is tucked safely here.
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/INTRO_BOOSTER
+      TermType: 0
+      Description: 
+      Languages:
+      - "Click that Booster, Master, let\u2019s amp up the fun."
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/ACTION_BOOSTER_UPGRADE
+      TermType: 0
+      Description: 
+      Languages:
+      - Enable 'Multi Click' for double the pleasure.
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/BACK
+      TermType: 0
+      Description: 
+      Languages:
+      - "Let\u2019s slide back."
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/BOOSTER_GUIDE_TAP
+      TermType: 0
+      Description: 
+      Languages:
+      - Give me a tap, and see what upgrades I'm hiding!
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/INTRO_UPGRADE
+      TermType: 0
+      Description: 
+      Languages:
+      - Step into the Upgrade Section, love.
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/INTRO_UPGRADE_POPUP
+      TermType: 0
+      Description: 
+      Languages:
+      - Upgrade 'Health Skills' to get closer with me!
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/INTRO_UPGRADE_CLICK
+      TermType: 0
+      Description: 
+      Languages:
+      - Upgrade 'Health Skills' to get closer with me!
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/INTRO_UPGRADE_PROFIT_MAIN
+      TermType: 0
+      Description: 
+      Languages:
+      - Well done Master! This will enhance your Sugar per hour.
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/INTRO_UNDRESS
+      TermType: 0
+      Description: 
+      Languages:
+      - Undress me to uncover my secrets beneath!
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/FEATURE_LEADERBOARD
+      TermType: 0
+      Description: 
+      Languages:
+      - Let's take a peek at the Wifedrop, Master!
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/FEATURE_WIFE
+      TermType: 0
+      Description: 
+      Languages:
+      - Climb the leaderboard, and let $WIFE come to you.
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/FEATURE_TAP_BOT
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Try out the tap bot now to automate your tap!
+
+'
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/FEATURE_QUEST
+      TermType: 0
+      Description: 
+      Languages:
+      - Shall we explore the Task system, Master?
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/FEATURE_SHOP
+      TermType: 0
+      Description: 
+      Languages:
+      - Let's go shopping!
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/FEATURE_SHOP_TIMELAPSE
+      TermType: 0
+      Description: 
+      Languages:
+      - Choose the 8 hour timelapse, and watch your Sugar rise!
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/NEXTGIRL_INTRO
+      TermType: 0
+      Description: 
+      Languages:
+      - "Now that I\u2019m yours, Master\u2014enjoy this special buff!"
+      Flags: 00
+      Languages_Touch: []
+    - Term: TUTORIAL/NEXTGIRL_DONE
+      TermType: 0
+      Description: 
+      Languages:
+      - Relive our memories together here, Master
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/PREMIUM_1
+      TermType: 0
+      Description: 
+      Languages:
+      - I can feel the heat rising between us.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/PREMIUM_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Tell me, what do you want me to do next?
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/PREMIUM_3
+      TermType: 0
+      Description: 
+      Languages:
+      - I love the way your hands make me feel.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/PREMIUM_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Being here with you makes me crave more.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/PREMIUM_5
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019ve been waiting for the chance to unleash my desires."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/PREMIUM_6
+      TermType: 0
+      Description: 
+      Languages:
+      - "I can\u2019t stop thinking about how good it would feel to let go completely."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/PREMIUM_7
+      TermType: 0
+      Description: 
+      Languages:
+      - The thought of you taking control excites me like nothing else.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/PREMIUM_8
+      TermType: 0
+      Description: 
+      Languages:
+      - I want you to explore every inch of my body.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/PREMIUM_9
+      TermType: 0
+      Description: 
+      Languages:
+      - Imagine how wild things could get if we let ourselves go.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/PREMIUM_10
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019m ready to make all our fantasies a reality, just say the word."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REWARD_20001
+      TermType: 0
+      Description: 
+      Languages:
+      - I'm excited you're here! You make me feel confident, and I can't wait to
+        share more.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REWARD_20002
+      TermType: 0
+      Description: 
+      Languages:
+      - Honored to meet you, my lord. I humbly await your command and will serve
+        with utmost grace.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REWARD_20003
+      TermType: 0
+      Description: 
+      Languages:
+      - "Sir, I\u2019m on duty, but your presence distracts me. Say the word, and
+        I'll break protocol."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REWARD_20004
+      TermType: 0
+      Description: 
+      Languages:
+      - "Master, just say the word, and I\u2019ll make everything sparkle... including
+        you."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REWARD_20005
+      TermType: 0
+      Description: 
+      Languages:
+      - "Master, I\u2019m shy meeting you, but if it pleases you, I\u2019ll do anything.
+        My body is yours."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REWARD_20006
+      TermType: 0
+      Description: 
+      Languages:
+      - "Ready for a wild ride? Just say the word, and I\u2019ll take you places
+        you\u2019ve only dreamed of. Hold on tight."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REWARD_20007
+      TermType: 0
+      Description: 
+      Languages:
+      - "You\u2019ve had a long day, haven\u2019t you? Let me make everything better...
+        starting with you."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REWARD_20008
+      TermType: 0
+      Description: 
+      Languages:
+      - "You've been such a good patient... Let me reward you with something special.
+        You\u2019ve earned it.\n"
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REWARD_20009
+      TermType: 0
+      Description: 
+      Languages:
+      - "You\u2019ve been such an exceptional student\u2026 It\u2019s only fair I
+        give you a special reward. You\u2019ve earned every bit of it.\""
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REWARD_30001
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019ve mastered magic, but now I\u2019m eager to learn from you. Teach
+        me & show me what else I can discover."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_300011
+      TermType: 0
+      Description: 
+      Languages:
+      - Your world is strange... but I think I want to explore everything with you.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_300012
+      TermType: 0
+      Description: 
+      Languages:
+      - "Feelings are so confusing... Maybe I should try them out with you\u2014closely."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_300013
+      TermType: 0
+      Description: 
+      Languages:
+      - I've lived for centuries, but you... make me feel something new.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_300014
+      TermType: 0
+      Description: 
+      Languages:
+      - "Your touch is... fascinating. Let\u2019s keep experimenting, yes?"
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_300015
+      TermType: 0
+      Description: 
+      Languages:
+      - "Humans are delicate\u2026 Do you think I\u2019ll break if I play a little
+        too hard?"
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_300016
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019ve read that kissing is how humans bond. Shall we... practice?"
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_300017
+      TermType: 0
+      Description: 
+      Languages:
+      - Please... don't tell Hummel about this!
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_300018
+      TermType: 0
+      Description: 
+      Languages:
+      - Your warmth is... addictive. I may need to stay closer.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_300019
+      TermType: 0
+      Description: 
+      Languages:
+      - I wonder... Do humans always feel this way when they desire someone?
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_3000110
+      TermType: 0
+      Description: 
+      Languages:
+      - "I trust you... So, teach me everything I shouldn\u2019t know."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200011
+      TermType: 0
+      Description: 
+      Languages:
+      - Oh, I feel so excited!
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200012
+      TermType: 0
+      Description: 
+      Languages:
+      - You make me feel safe and comfortable.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200013
+      TermType: 0
+      Description: 
+      Languages:
+      - I love this outfit; it feels so sexy.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200014
+      TermType: 0
+      Description: 
+      Languages:
+      - When you undress me, I feel more confident.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200015
+      TermType: 0
+      Description: 
+      Languages:
+      - This is a new and interesting experience for me.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200016
+      TermType: 0
+      Description: 
+      Languages:
+      - I feel like we're connecting more in this moment.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200017
+      TermType: 0
+      Description: 
+      Languages:
+      - I've always wanted to express my inner allure.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200018
+      TermType: 0
+      Description: 
+      Languages:
+      - I really appreciate when someone values my beauty.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200019
+      TermType: 0
+      Description: 
+      Languages:
+      - I believe that confidence in shedding layers is really important.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_2000110
+      TermType: 0
+      Description: 
+      Languages:
+      - I want to share more about myself and what makes me feel sexy.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200021
+      TermType: 0
+      Description: 
+      Languages:
+      - Master, I feel a bit shy... I'm not sure what to do.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200022
+      TermType: 0
+      Description: 
+      Languages:
+      - Master, why are you looking at me like that...? My heart is racing...
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200023
+      TermType: 0
+      Description: 
+      Languages:
+      - Master, do you want me to... take off my coat?
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200024
+      TermType: 0
+      Description: 
+      Languages:
+      - Master, if it pleases you... I can remove my blouse.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200025
+      TermType: 0
+      Description: 
+      Languages:
+      - Master, I'm nervous, but... I'll do anything for you.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200026
+      TermType: 0
+      Description: 
+      Languages:
+      - Master, your wish is my command... I'll undress for you.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200027
+      TermType: 0
+      Description: 
+      Languages:
+      - "Master, do you enjoy seeing me like this? I\u2019m yours to command."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200028
+      TermType: 0
+      Description: 
+      Languages:
+      - "Master, I\u2019ll expose myself completely... if that\u2019s what you desire."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200029
+      TermType: 0
+      Description: 
+      Languages:
+      - Master, I'm entirely yours... My body, my everything... belongs to you.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_2000210
+      TermType: 0
+      Description: 
+      Languages:
+      - Master, command me as you wish... I'll bare it all, just for you.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200031
+      TermType: 0
+      Description: 
+      Languages:
+      - Sir, I'm still on duty... But your presence is quite distracting.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200032
+      TermType: 0
+      Description: 
+      Languages:
+      - You have a way of making my heart race... especially when you come closer.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200033
+      TermType: 0
+      Description: 
+      Languages:
+      - Would you like me to remove my uniform? I can do that for you.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200034
+      TermType: 0
+      Description: 
+      Languages:
+      - "I usually maintain a professional demeanor... but for you, I\u2019m ready
+        to break the rules."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200035
+      TermType: 0
+      Description: 
+      Languages:
+      - If it pleases you, I can make sure nothing stands between us.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200036
+      TermType: 0
+      Description: 
+      Languages:
+      - I'll comply with your wishes, even if it means stepping out of my usual role.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200037
+      TermType: 0
+      Description: 
+      Languages:
+      - "Does seeing me like this excite you? I\u2019m here to fulfill your desires."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200038
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019ll reveal more if that\u2019s what you want. Just tell me what you
+        need."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200039
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019m at your service... My body and everything I am are yours to command."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_2000310
+      TermType: 0
+      Description: 
+      Languages:
+      - "Use me as you wish. I\u2019m ready to bare it all for you."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200041
+      TermType: 0
+      Description: 
+      Languages:
+      - Sir, I'm here to attend to your needs. What would you like me to do?
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200042
+      TermType: 0
+      Description: 
+      Languages:
+      - If there's something specific you need, just let me know. I will handle it.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200043
+      TermType: 0
+      Description: 
+      Languages:
+      - Your requests are my commands. I will adjust my attire as you see fit.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200044
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019m ready to follow any instruction. Even if it means removing part
+        of my uniform."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200045
+      TermType: 0
+      Description: 
+      Languages:
+      - You have my complete obedience. I will do whatever is required to satisfy
+        you.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200046
+      TermType: 0
+      Description: 
+      Languages:
+      - My usual demeanor may be cold, but I will comply with your wishes fully.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200047
+      TermType: 0
+      Description: 
+      Languages:
+      - "If you desire a more personal service, just say so. I\u2019ll accommodate
+        accordingly."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200048
+      TermType: 0
+      Description: 
+      Languages:
+      - You can rely on me to fulfill any request, regardless of how intimate it
+        may be.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200049
+      TermType: 0
+      Description: 
+      Languages:
+      - I am here to serve you, and that includes meeting all your specific desires.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_2000410
+      TermType: 0
+      Description: 
+      Languages:
+      - Feel free to use me as you wish. I will comply without hesitation, no matter
+        what you ask.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200051
+      TermType: 0
+      Description: 
+      Languages:
+      - "Sir, how may I assist you today? I\u2019m here to handle whatever you need."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200052
+      TermType: 0
+      Description: 
+      Languages:
+      - "If there\u2019s something you require, just let me know. I\u2019ll take
+        care of it promptly."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200053
+      TermType: 0
+      Description: 
+      Languages:
+      - Would you like me to adjust my attire to better suit your preferences?
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200054
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019m here to ensure everything goes smoothly. If that means changing
+        my appearance, I\u2019ll do so."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200055
+      TermType: 0
+      Description: 
+      Languages:
+      - You can count on me to meet any specific request. My role is to serve your
+        needs.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200056
+      TermType: 0
+      Description: 
+      Languages:
+      - My professionalism includes fulfilling your personal preferences, should
+        you desire.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200057
+      TermType: 0
+      Description: 
+      Languages:
+      - "If you have particular requests, I\u2019ll make sure to address them with
+        the utmost attention."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200058
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019m prepared to follow through on any instruction you give, regardless
+        of its nature."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200059
+      TermType: 0
+      Description: 
+      Languages:
+      - "Allow me to cater to your desires completely. I\u2019m here to ensure your
+        satisfaction."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_2000510
+      TermType: 0
+      Description: 
+      Languages:
+      - Feel free to make any request. I will fulfill your wishes without hesitation
+        or reservation.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200061
+      TermType: 0
+      Description: 
+      Languages:
+      - "Hey, need anything? Just say the word, and I\u2019ll make it happen."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200062
+      TermType: 0
+      Description: 
+      Languages:
+      - "You\u2019re in the driver\u2019s seat now. If there\u2019s something specific
+        you want, just let me know."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200063
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019m used to pushing limits on the track... if you want me to push boundaries
+        here, I\u2019m game."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200064
+      TermType: 0
+      Description: 
+      Languages:
+      - "If you\u2019re looking for something more personal, I\u2019m ready to take
+        the challenge."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200065
+      TermType: 0
+      Description: 
+      Languages:
+      - "You can count on me to go the extra mile, whether it\u2019s on the track
+        or off."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200066
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019m all about high speeds and high stakes. If you want to test new
+        boundaries, I\u2019m in."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200067
+      TermType: 0
+      Description: 
+      Languages:
+      - "Want me to switch gears? Just give the signal, and I\u2019ll make sure to
+        fulfill your needs."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200068
+      TermType: 0
+      Description: 
+      Languages:
+      - "I thrive on adrenaline and excitement. If you\u2019re after something a
+        bit more daring, just let me know."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200069
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019m ready to take things to the next level. Whatever you desire, I\u2019ll
+        handle it with flair."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_2000610
+      TermType: 0
+      Description: 
+      Languages:
+      - "Feel free to push the limits with me. I\u2019ll bring the same passion and
+        drive to fulfilling your requests."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200071
+      TermType: 0
+      Description: 
+      Languages:
+      - If you need anything around the house, just let me know. I'll make sure everything
+        is just the way you like it.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200072
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019m happy to assist with any task, big or small. Just tell me how you\u2019d
+        like things done, and I\u2019ll take care of it."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200073
+      TermType: 0
+      Description: 
+      Languages:
+      - Would you like me to slip into something more suitable for... home? Anything
+        to make you more comfortable.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200074
+      TermType: 0
+      Description: 
+      Languages:
+      - "You can leave all the chores to me. I\u2019m here to make sure everything
+        is perfect for you."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200075
+      TermType: 0
+      Description: 
+      Languages:
+      - "If there\u2019s something specific you want done, I\u2019ll make sure to
+        handle it with extra care."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200076
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019m here to take care of you and the home, whatever you need to feel
+        comfortable and relaxed."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200077
+      TermType: 0
+      Description: 
+      Languages:
+      - "If you\u2019d prefer a more personal touch with anything, don\u2019t hesitate
+        to ask. I\u2019m here to accommodate."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200078
+      TermType: 0
+      Description: 
+      Languages:
+      - My priority is making sure your home feels like a haven. Just tell me what
+        would make it perfect for you.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200079
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019m more than willing to go beyond the usual tasks if it means making
+        you happy at home."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_2000710
+      TermType: 0
+      Description: 
+      Languages:
+      - "Let me take care of everything so you can relax. Whatever you want, I\u2019ll
+        make sure you\u2019re satisfied."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200081
+      TermType: 0
+      Description: 
+      Languages:
+      - "Mmm\u2026 Do I look better like this? I know what you need."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200082
+      TermType: 0
+      Description: 
+      Languages:
+      - "Getting a closer look, my patient? Let me make things a bit more interesting\u2026"
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200083
+      TermType: 0
+      Description: 
+      Languages:
+      - "Oh, you\u2019ve been working so hard... How about I slip out of this uniform
+        just for you?"
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200084
+      TermType: 0
+      Description: 
+      Languages:
+      - "Do you like what you see? I still have more to show\u2026 if you can handle
+        it.\n"
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200085
+      TermType: 0
+      Description: 
+      Languages:
+      - "Mmm\u2026 Don\u2019t be shy, darling. I\u2019ve got more to reveal. Stay
+        close, I\u2019ll take care of you.\n"
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200086
+      TermType: 0
+      Description: 
+      Languages:
+      - "I\u2019ve been waiting to treat you like this\u2026 Let me give you an even
+        better view, my patient.\n"
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200087
+      TermType: 0
+      Description: 
+      Languages:
+      - "Need a little extra attention? Let\u2019s take this check-up a bit further.\n"
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200088
+      TermType: 0
+      Description: 
+      Languages:
+      - "Mmm\u2026 getting excited, aren\u2019t you? Let me show you what I can really
+        do.\n"
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200089
+      TermType: 0
+      Description: 
+      Languages:
+      - "You\u2019ve been so good\u2026 Shall I take off a little more? I\u2019ll
+        make sure you feel better soon.\n"
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_2000810
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Mmm, almost out of this uniform... Think you can handle all of my special
+        care?
+
+'
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200091
+      TermType: 0
+      Description: 
+      Languages:
+      - Mmm, you're improving... I might have to give you a private lesson soon.
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200092
+      TermType: 0
+      Description: 
+      Languages:
+      - "Oh, you're such a good student\u2026 Let\u2019s see how much more I can
+        teach you."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200093
+      TermType: 0
+      Description: 
+      Languages:
+      - Impressive progress. Maybe I should reward you with some extra credit...
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200094
+      TermType: 0
+      Description: 
+      Languages:
+      - "You\u2019re learning so quickly\u2026 I think you deserve a bit of special
+        attention."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200095
+      TermType: 0
+      Description: 
+      Languages:
+      - "You\u2019re moving up fast... I\u2019m proud of you. Shall we continue this
+        lesson somewhere more private?"
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200096
+      TermType: 0
+      Description: 
+      Languages:
+      - "Mmm, another level? You\u2019re becoming my star student\u2026 and I know
+        how to treat my best."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200097
+      TermType: 0
+      Description: 
+      Languages:
+      - "Such improvement... Let\u2019s see if you can keep up with me in more ways
+        than one."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200098
+      TermType: 0
+      Description: 
+      Languages:
+      - "You\u2019ve made it this far... I\u2019m ready to show you the advanced
+        lessons."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_200099
+      TermType: 0
+      Description: 
+      Languages:
+      - "I see you\u2019re getting better... Don\u2019t worry, there\u2019s still
+        so much more I can teach you."
+      Flags: 00
+      Languages_Touch: []
+    - Term: MESSAGEGIRL/REGULAR_2000910
+      TermType: 0
+      Description: 
+      Languages:
+      - "My star pupil... You\u2019ve earned a little one-on-one time with your teacher,
+        don\u2019t you think?"
+      Flags: 00
+      Languages_Touch: []
+    CaseInsensitiveTerms: 1
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycby7o8UhYPRsRYiwPlD8iWPozDMaAXfjztCHsmLbJLgfiyJVISeoimqJgz2XtjBzw4Ty/exec
+    Google_SpreadsheetKey: 1qrkCOopiDQm5omUNHBvwLrgr0mTFjsAjruqQks2iiyE
+    Google_SpreadsheetName: I2Loc Waifu Tap Localization
+    Google_LastUpdatedVersion: 1731923801823
+    Google_Password: mirailabs-secret
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
+    Spreadsheet_SortRows: 1

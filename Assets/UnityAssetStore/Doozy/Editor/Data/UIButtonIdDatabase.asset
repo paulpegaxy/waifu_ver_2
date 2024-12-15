@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bd14fc30d004417a423cfdef2bd9ccf, type: 3}
+  m_Name: UIButtonIdDatabase
+  m_EditorClassIdentifier: 
+  Database:
+    Items:
+    - Category: Club
+      Name: Player
+    - Category: Friend
+      Name: BuddyInformation
+    - Category: Friend
+      Name: Detail
+    - Category: Friend
+      Name: Event
+    - Category: Friend
+      Name: Leaderboard
+    - Category: Main
+      Name: Airdrop
+    - Category: Main
+      Name: Booster
+    - Category: Main
+      Name: ClubDetail
+    - Category: Main
+      Name: ClubRandom
+    - Category: Main
+      Name: EventYuki
+    - Category: Main
+      Name: Friend
+    - Category: Main
+      Name: Gallery
+    - Category: Main
+      Name: Generate
+    - Category: Main
+      Name: GuideProfit
+    - Category: Main
+      Name: IdleEarn
+    - Category: Main
+      Name: LifetimeRanking
+    - Category: Main
+      Name: Mail
+    - Category: Main
+      Name: NextGirl
+    - Category: Main
+      Name: PalsStore
+    - Category: Main
+      Name: PartnerMergePal
+    - Category: Main
+      Name: Quest
+    - Category: Main
+      Name: Ranking
+    - Category: Main
+      Name: Setting
+    - Category: Main
+      Name: Shop
+    - Category: Main
+      Name: TapBot
+    - Category: Main
+      Name: UndressGirl
+    - Category: Main
+      Name: UserProfile
+    - Category: MainV2
+      Name: Swipe
+    - Category: Navigation
+      Name: Back
+    - Category: Navigation
+      Name: BackFromWaifuProfile
+    - Category: Navigation
+      Name: BackToChatList
+    - Category: None
+      Name: None
+    - Category: Popup
+      Name: BoosterConfirm
+    - Category: Popup
+      Name: IdleEarnConfirm
+    - Category: Popup
+      Name: MergeConfirm
+    - Category: Shop
+      Name: Timelapse

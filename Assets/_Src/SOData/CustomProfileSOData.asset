@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6da1718ea8b4b99b569e542ee40a211, type: 3}
+  m_Name: CustomProfileSOData
+  m_EditorClassIdentifier: 
+  listStoryGenres:
+  - sprIcon: {fileID: 21300000, guid: 758ff446503940d4bae67cda8bfdf0ed, type: 3}
+    name: Romance
+  - sprIcon: {fileID: 21300000, guid: 758ff446503940d4bae67cda8bfdf0ed, type: 3}
+    name: Drama
+  - sprIcon: {fileID: 21300000, guid: 758ff446503940d4bae67cda8bfdf0ed, type: 3}
+    name: Spicy
+  - sprIcon: {fileID: 21300000, guid: 758ff446503940d4bae67cda8bfdf0ed, type: 3}
+    name: Action
+  - sprIcon: {fileID: 21300000, guid: 758ff446503940d4bae67cda8bfdf0ed, type: 3}
+    name: Fantasy
+  - sprIcon: {fileID: 21300000, guid: 758ff446503940d4bae67cda8bfdf0ed, type: 3}
+    name: Lifelike
+  - sprIcon: {fileID: 21300000, guid: 758ff446503940d4bae67cda8bfdf0ed, type: 3}
+    name: LGBTQR Code
+  - sprIcon: {fileID: 21300000, guid: 758ff446503940d4bae67cda8bfdf0ed, type: 3}
+    name: Royal
+  - sprIcon: {fileID: 21300000, guid: 758ff446503940d4bae67cda8bfdf0ed, type: 3}
+    name: Werewolf
+  - sprIcon: {fileID: 21300000, guid: 758ff446503940d4bae67cda8bfdf0ed, type: 3}
+    name: Furry
+  - sprIcon: {fileID: 21300000, guid: 758ff446503940d4bae67cda8bfdf0ed, type: 3}
+    name: Friendship
+  - sprIcon: {fileID: 21300000, guid: 758ff446503940d4bae67cda8bfdf0ed, type: 3}
+    name: Comedy
+  - sprIcon: {fileID: 21300000, guid: 758ff446503940d4bae67cda8bfdf0ed, type: 3}
+    name: Sci-fi
+  - sprIcon: {fileID: 21300000, guid: 758ff446503940d4bae67cda8bfdf0ed, type: 3}
+    name: One-night
+  - sprIcon: {fileID: 21300000, guid: 758ff446503940d4bae67cda8bfdf0ed, type: 3}
+    name: Thriller
+  listVisual:
+  - avatar: {fileID: 21300000, guid: 9291931ebc08aa747b0b98fca493dadf, type: 3}
+  - avatar: {fileID: 21300000, guid: 3b57cf0cca0508945ac56822be7d03a7, type: 3}
+  - avatar: {fileID: 21300000, guid: 30aabf90d5f1d834da15e776baf59a03, type: 3}
+  - avatar: {fileID: 21300000, guid: 7b34f75a887242c4d8ce643623389a5d, type: 3}
+  - avatar: {fileID: 21300000, guid: 3b09408db8fdf4b4790d1484eeab83bf, type: 3}
+  - avatar: {fileID: 21300000, guid: 750597ebb66511540b4eb9f31d67e9bb, type: 3}
+  - avatar: {fileID: 21300000, guid: 9acaa9332ec9ff34c9f7f9cb83a6e8b5, type: 3}
+  - avatar: {fileID: 21300000, guid: a2e64a7abc8461d4792c8332a57f1fc5, type: 3}
+  - avatar: {fileID: 21300000, guid: ce4bacbe52931b84886b4e3ea572c2d2, type: 3}

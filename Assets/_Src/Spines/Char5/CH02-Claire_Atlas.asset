@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: CH02-Claire_Atlas
+  m_EditorClassIdentifier: 
+  textureLoadingMode: 0
+  onDemandTextureLoader: {fileID: 0}
+  atlasFile: {fileID: 4900000, guid: 6e49b0ffdcba8054dbc4cc71a93c0e85, type: 3}
+  materials:
+  - {fileID: 2100000, guid: db0afe9cb7048d04d9e74363c3fb7190, type: 2}
+  - {fileID: 2100000, guid: 1c37b2e903eb74a49a3fb1ef61216adc, type: 2}
+  - {fileID: 2100000, guid: 09072e3703e7c264f9d039099bbe51f2, type: 2}

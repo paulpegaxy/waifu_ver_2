@@ -1,0 +1,18 @@
+{
+    "name": "WebTask",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e3e069904a912bf48b82847e6703e31d",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:e6be6bd2cac63ce49a95472c9d6e313a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bd9501ab4574d6ca9c8a943288c4ac6, type: 3}
+  m_Name: CharPremiumSOData
+  m_EditorClassIdentifier: 
+  dictChar:
+    list:
+    - Key: 30001
+      Value:
+        charId: 30001
+        name: Freerin
+    keyCollision: 0
+  dictCharComingSoon:
+    list:
+    - Key: 40001
+      Value:
+        charId: 40001
+        name: 
+    - Key: 40002
+      Value:
+        charId: 40002
+        name: 
+    - Key: 40004
+      Value:
+        charId: 40004
+        name: 
+    - Key: 40003
+      Value:
+        charId: 40003
+        name: 
+    - Key: 40005
+      Value:
+        charId: 40005
+        name: 
+    - Key: 40006
+      Value:
+        charId: 40006
+        name: 
+    - Key: 40007
+      Value:
+        charId: 40007
+        name: 
+    - Key: 40008
+      Value:
+        charId: 40008
+        name: 
+    - Key: 40009
+      Value:
+        charId: 40009
+        name: 
+    - Key: 40010
+      Value:
+        charId: 40010
+        name: 
+    - Key: 40011
+      Value:
+        charId: 40011
+        name: 
+    keyCollision: 0
